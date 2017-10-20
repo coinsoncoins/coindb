@@ -7663,7 +7663,8 @@
     "percent_change_1h": "4.33",
     "percent_change_24h": "11.14",
     "percent_change_7d": "39.25",
-    "last_updated": "1508511558"
+    "last_updated": "1508511558",
+    "date_added": "2015-11-23"
   },
   {
     "id": "insanecoin-insn",
@@ -7679,7 +7680,8 @@
     "percent_change_1h": "4.93",
     "percent_change_24h": "17.03",
     "percent_change_7d": "1.41",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-05-17"
   },
   {
     "id": "footy-cash",
@@ -7695,7 +7697,8 @@
     "percent_change_1h": "4.78",
     "percent_change_24h": "38.79",
     "percent_change_7d": "-0.49",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-04-26"
   },
   {
     "id": "cream",
@@ -7711,7 +7714,8 @@
     "percent_change_1h": "4.81",
     "percent_change_24h": "4.95",
     "percent_change_7d": "-20.63",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-07-31"
   },
   {
     "id": "bata",
@@ -7727,7 +7731,8 @@
     "percent_change_1h": "6.94",
     "percent_change_24h": "0.72",
     "percent_change_7d": "7.12",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-05-29"
   },
   {
     "id": "colossuscoinxt",
@@ -7743,7 +7748,8 @@
     "percent_change_1h": "4.91",
     "percent_change_24h": "44.81",
     "percent_change_7d": "7.11",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-09-29"
   },
   {
     "id": "fujinto",
@@ -7759,7 +7765,8 @@
     "percent_change_1h": "5.02",
     "percent_change_24h": "3.43",
     "percent_change_7d": "29.92",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-09-02"
   },
   {
     "id": "bitcoinz",
@@ -7775,7 +7782,8 @@
     "percent_change_1h": "2.45",
     "percent_change_24h": "23.31",
     "percent_change_7d": "5.81",
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-10-12"
   },
   {
     "id": "fincoin",
@@ -7791,7 +7799,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "5.39",
     "percent_change_7d": "0.72",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-07-11"
   },
   {
     "id": "zetacoin",
@@ -7807,7 +7816,8 @@
     "percent_change_1h": "2.83",
     "percent_change_24h": "-3.8",
     "percent_change_7d": "-3.24",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-09-11"
   },
   {
     "id": "postoken",
@@ -7823,7 +7833,8 @@
     "percent_change_1h": "0.34",
     "percent_change_24h": "-2.05",
     "percent_change_7d": "-6.32",
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-10-11"
   },
   {
     "id": "digitalprice",
@@ -7839,7 +7850,8 @@
     "percent_change_1h": "5.95",
     "percent_change_24h": "6.21",
     "percent_change_7d": "-7.66",
-    "last_updated": "1508511544"
+    "last_updated": "1508511544",
+    "date_added": "2014-10-04"
   },
   {
     "id": "fujicoin",
@@ -7855,7 +7867,8 @@
     "percent_change_1h": "0.22",
     "percent_change_24h": "-3.7",
     "percent_change_7d": "-11.31",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-06-14"
   },
   {
     "id": "tychocoin",
@@ -7871,7 +7884,8 @@
     "percent_change_1h": "-0.12",
     "percent_change_24h": "8.75",
     "percent_change_7d": "3.57",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-06-25"
   },
   {
     "id": "monster-byte",
@@ -7887,7 +7901,8 @@
     "percent_change_1h": "2.8",
     "percent_change_24h": "-10.79",
     "percent_change_7d": "20.98",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-13"
   },
   {
     "id": "netko",
@@ -7903,7 +7918,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "0.83",
     "percent_change_7d": "-30.75",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-03-20"
   },
   {
     "id": "vsync-vsx",
@@ -7919,7 +7935,8 @@
     "percent_change_1h": "5.01",
     "percent_change_24h": "-15.18",
     "percent_change_7d": "-8.95",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-09-10"
   },
   {
     "id": "sovereign-hero",
@@ -7935,7 +7952,8 @@
     "percent_change_1h": "-14.31",
     "percent_change_24h": "-15.0",
     "percent_change_7d": "-17.5",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-07-11"
   },
   {
     "id": "ethbet",
@@ -7951,7 +7969,8 @@
     "percent_change_1h": "3.95",
     "percent_change_24h": "18.7",
     "percent_change_7d": "-26.02",
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-10-07"
   },
   {
     "id": "billionaire-token",
@@ -7967,7 +7986,8 @@
     "percent_change_1h": "11.01",
     "percent_change_24h": "3.97",
     "percent_change_7d": "-14.47",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-09-23"
   },
   {
     "id": "eternity",
@@ -7983,7 +8003,8 @@
     "percent_change_1h": "-6.37",
     "percent_change_24h": "0.31",
     "percent_change_7d": "68.78",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2016-12-07"
   },
   {
     "id": "unbreakablecoin",
@@ -7999,7 +8020,8 @@
     "percent_change_1h": "1.81",
     "percent_change_24h": "-1.95",
     "percent_change_7d": "4.64",
-    "last_updated": "1508511544"
+    "last_updated": "1508511544",
+    "date_added": "2014-05-23"
   },
   {
     "id": "fantomcoin",
@@ -8015,7 +8037,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "-4.52",
     "percent_change_7d": "-9.56",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-06-08"
   },
   {
     "id": "roulettetoken",
@@ -8031,7 +8054,8 @@
     "percent_change_1h": "5.2",
     "percent_change_24h": "5.88",
     "percent_change_7d": "11.38",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-05-22"
   },
   {
     "id": "machinecoin",
@@ -8047,7 +8071,8 @@
     "percent_change_1h": "-3.74",
     "percent_change_24h": "-19.56",
     "percent_change_7d": "50.95",
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2015-02-07"
   },
   {
     "id": "inflationcoin",
@@ -8063,7 +8088,8 @@
     "percent_change_1h": "-4.41",
     "percent_change_24h": "-54.45",
     "percent_change_7d": "-47.05",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2017-01-12"
   },
   {
     "id": "solaris",
@@ -8079,7 +8105,8 @@
     "percent_change_1h": "-19.91",
     "percent_change_24h": "3.6",
     "percent_change_7d": "60.3",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-04-01"
   },
   {
     "id": "moin",
@@ -8095,7 +8122,8 @@
     "percent_change_1h": "4.46",
     "percent_change_24h": "1.46",
     "percent_change_7d": "-9.14",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2016-01-04"
   },
   {
     "id": "digital-developers-fund",
@@ -8111,7 +8139,8 @@
     "percent_change_1h": "2.14",
     "percent_change_24h": "12.44",
     "percent_change_7d": "-14.87",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-12"
   },
   {
     "id": "triangles",
@@ -8127,7 +8156,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "6.45",
     "percent_change_7d": "-9.85",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-07-21"
   },
   {
     "id": "whalecoin",
@@ -8143,7 +8173,8 @@
     "percent_change_1h": "7.39",
     "percent_change_24h": "7.26",
     "percent_change_7d": "-26.59",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-10-07"
   },
   {
     "id": "denarius-dnr",
@@ -8159,7 +8190,8 @@
     "percent_change_1h": "5.93",
     "percent_change_24h": "4.19",
     "percent_change_7d": "2.62",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-07-02"
   },
   {
     "id": "anoncoin",
@@ -8175,7 +8207,8 @@
     "percent_change_1h": "-4.04",
     "percent_change_24h": "22.29",
     "percent_change_7d": "35.29",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-07-15"
   },
   {
     "id": "linx",
@@ -8191,7 +8224,8 @@
     "percent_change_1h": "4.92",
     "percent_change_24h": "-2.91",
     "percent_change_7d": "5.14",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2017-06-16"
   },
   {
     "id": "procurrency",
@@ -8207,7 +8241,8 @@
     "percent_change_1h": "4.62",
     "percent_change_24h": "-3.32",
     "percent_change_7d": "16.37",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-04-27"
   },
   {
     "id": "42-coin",
@@ -8223,7 +8258,8 @@
     "percent_change_1h": "3.93",
     "percent_change_24h": "1.87",
     "percent_change_7d": "2.32",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2014-01-14"
   },
   {
     "id": "women",
@@ -8239,7 +8275,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "-9.42",
     "percent_change_7d": "-26.48",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-07-10"
   },
   {
     "id": "postcoin",
@@ -8255,7 +8292,8 @@
     "percent_change_1h": "6.02",
     "percent_change_24h": "3.24",
     "percent_change_7d": "3.5",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-04-08"
   },
   {
     "id": "jetcoin",
@@ -8271,7 +8309,8 @@
     "percent_change_1h": "-4.14",
     "percent_change_24h": "1.13",
     "percent_change_7d": "-20.49",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-07-07"
   },
   {
     "id": "daxxcoin",
@@ -8287,7 +8326,8 @@
     "percent_change_1h": "4.87",
     "percent_change_24h": "11.31",
     "percent_change_7d": "4.12",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-07-11"
   },
   {
     "id": "deutsche-emark",
@@ -8303,7 +8343,8 @@
     "percent_change_1h": "3.43",
     "percent_change_24h": "32.89",
     "percent_change_7d": "22.14",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-12-15"
   },
   {
     "id": "bitstar",
@@ -8319,7 +8360,8 @@
     "percent_change_1h": "4.86",
     "percent_change_24h": "5.39",
     "percent_change_7d": "31.11",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-04-23"
   },
   {
     "id": "futurexe",
@@ -8335,7 +8377,8 @@
     "percent_change_1h": "8.0",
     "percent_change_24h": "9.77",
     "percent_change_7d": "7.27",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-07-11"
   },
   {
     "id": "greencoin",
@@ -8351,7 +8394,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "-23.86",
     "percent_change_7d": "-73.71",
-    "last_updated": "1508511544"
+    "last_updated": "1508511544",
+    "date_added": "2014-06-23"
   },
   {
     "id": "piecoin",
@@ -8367,7 +8411,8 @@
     "percent_change_1h": "3.77",
     "percent_change_24h": "24.67",
     "percent_change_7d": "-5.0",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-03-03"
   },
   {
     "id": "veltor",
@@ -8383,7 +8428,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "4.01",
     "percent_change_7d": "3.54",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-09-03"
   },
   {
     "id": "pakcoin",
@@ -8399,7 +8445,8 @@
     "percent_change_1h": "4.55",
     "percent_change_24h": "3.37",
     "percent_change_7d": "8.89",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2015-09-15"
   },
   {
     "id": "blakestar",
@@ -8415,7 +8462,8 @@
     "percent_change_1h": "2.94",
     "percent_change_24h": "-12.48",
     "percent_change_7d": "-45.22",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-07-31"
   },
   {
     "id": "bitzeny",
@@ -8431,7 +8479,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-6.96",
     "percent_change_7d": "198.64",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-07-09"
   },
   {
     "id": "coinonatx",
@@ -8447,7 +8496,8 @@
     "percent_change_1h": "5.72",
     "percent_change_24h": "8.85",
     "percent_change_7d": "47.71",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-14"
   },
   {
     "id": "interzone",
@@ -8463,7 +8513,8 @@
     "percent_change_1h": "-0.11",
     "percent_change_24h": "3.93",
     "percent_change_7d": "12.65",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-09-29"
   },
   {
     "id": "rubies",
@@ -8479,7 +8530,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "2.43",
     "percent_change_7d": "-3.51",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2016-02-22"
   },
   {
     "id": "zero",
@@ -8495,7 +8547,8 @@
     "percent_change_1h": "4.94",
     "percent_change_24h": "9.66",
     "percent_change_7d": "-14.58",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-03-20"
   },
   {
     "id": "scorecoin",
@@ -8511,7 +8564,8 @@
     "percent_change_1h": "1.52",
     "percent_change_24h": "-4.46",
     "percent_change_7d": "-27.73",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-04-01"
   },
   {
     "id": "das",
@@ -8527,7 +8581,8 @@
     "percent_change_1h": "4.29",
     "percent_change_24h": "2.07",
     "percent_change_7d": "-27.47",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-07-21"
   },
   {
     "id": "dalecoin",
@@ -8543,7 +8598,8 @@
     "percent_change_1h": "9.12",
     "percent_change_24h": "8.6",
     "percent_change_7d": "-14.75",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-08-24"
   },
   {
     "id": "atomic-coin",
@@ -8559,7 +8615,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "-4.76",
     "percent_change_7d": "-12.41",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-10-09"
   },
   {
     "id": "idice",
@@ -8575,7 +8632,8 @@
     "percent_change_1h": "20.96",
     "percent_change_24h": "13.24",
     "percent_change_7d": "-14.88",
-    "last_updated": "1508511558"
+    "last_updated": "1508511558",
+    "date_added": "2017-06-23"
   },
   {
     "id": "electra",
@@ -8591,7 +8649,8 @@
     "percent_change_1h": "4.05",
     "percent_change_24h": "41.06",
     "percent_change_7d": "-39.61",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2017-06-09"
   },
   {
     "id": "swagbucks",
@@ -8607,7 +8666,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-10.59",
     "percent_change_7d": "-34.42",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2016-01-04"
   },
   {
     "id": "bitbtc",
@@ -8623,7 +8683,8 @@
     "percent_change_1h": "1.56",
     "percent_change_24h": "-9.62",
     "percent_change_7d": "-11.98",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2014-09-23"
   },
   {
     "id": "briacoin",
@@ -8639,7 +8700,8 @@
     "percent_change_1h": "0.07",
     "percent_change_24h": "-6.18",
     "percent_change_7d": "-12.53",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-06-29"
   },
   {
     "id": "bitcoin-scrypt",
@@ -8655,7 +8717,8 @@
     "percent_change_1h": "-2.03",
     "percent_change_24h": "-6.93",
     "percent_change_7d": "10.55",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-03-17"
   },
   {
     "id": "prototanium",
@@ -8671,7 +8734,8 @@
     "percent_change_1h": "-21.44",
     "percent_change_24h": "-37.7",
     "percent_change_7d": "-0.72",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2015-10-12"
   },
   {
     "id": "swing",
@@ -8687,7 +8751,8 @@
     "percent_change_1h": "5.94",
     "percent_change_24h": "-12.27",
     "percent_change_7d": "-36.2",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2015-09-28"
   },
   {
     "id": "dashcoin",
@@ -8703,7 +8768,8 @@
     "percent_change_1h": "-10.0",
     "percent_change_24h": "-41.54",
     "percent_change_7d": "-9.96",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2014-10-07"
   },
   {
     "id": "virta-unique-coin",
@@ -8719,7 +8785,8 @@
     "percent_change_1h": "-12.72",
     "percent_change_24h": "20.77",
     "percent_change_7d": "52.82",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-07-10"
   },
   {
     "id": "mojocoin",
@@ -8735,7 +8802,8 @@
     "percent_change_1h": "5.56",
     "percent_change_24h": "4.3",
     "percent_change_7d": "-17.51",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-04-06"
   },
   {
     "id": "bolenum",
@@ -8751,7 +8819,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "-12.13",
     "percent_change_7d": "-5.36",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-17"
   },
   {
     "id": "platinumbar",
@@ -8767,7 +8836,8 @@
     "percent_change_1h": "5.81",
     "percent_change_24h": "4.06",
     "percent_change_7d": "-24.31",
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2016-05-17"
   },
   {
     "id": "bitasean",
@@ -8783,7 +8853,8 @@
     "percent_change_1h": "-7.75",
     "percent_change_24h": "68.89",
     "percent_change_7d": "41.32",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-12"
   },
   {
     "id": "cybcsec",
@@ -8799,7 +8870,8 @@
     "percent_change_1h": "11.2",
     "percent_change_24h": "0.49",
     "percent_change_7d": "-18.03",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-10-06"
   },
   {
     "id": "litebar",
@@ -8815,7 +8887,8 @@
     "percent_change_1h": "-19.04",
     "percent_change_24h": "14.69",
     "percent_change_7d": "33.99",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-03-12"
   },
   {
     "id": "goldreserve",
@@ -8831,7 +8904,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "48.69",
     "percent_change_7d": "41.94",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-06-28"
   },
   {
     "id": "kilocoin",
@@ -8847,7 +8921,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-1.77",
     "percent_change_7d": "31.45",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2016-02-26"
   },
   {
     "id": "freicoin",
@@ -8863,7 +8938,8 @@
     "percent_change_1h": "4.93",
     "percent_change_24h": "5.83",
     "percent_change_7d": "23.5",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-05-03"
   },
   {
     "id": "biblepay",
@@ -8879,7 +8955,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "4.76",
     "percent_change_7d": "-13.4",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-27"
   },
   {
     "id": "bolivarcoin",
@@ -8895,7 +8972,8 @@
     "percent_change_1h": "4.72",
     "percent_change_24h": "1.55",
     "percent_change_7d": "-11.14",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2015-09-08"
   },
   {
     "id": "ratecoin",
@@ -8911,7 +8989,8 @@
     "percent_change_1h": "4.73",
     "percent_change_24h": "4.79",
     "percent_change_7d": "-19.22",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-06-26"
   },
   {
     "id": "wyvern",
@@ -8927,7 +9006,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "4.78",
     "percent_change_7d": "-34.56",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-04-17"
   },
   {
     "id": "sacoin",
@@ -8943,7 +9023,8 @@
     "percent_change_1h": "-5.69",
     "percent_change_24h": "20.81",
     "percent_change_7d": "12.53",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-10-11"
   },
   {
     "id": "goldblocks",
@@ -8959,7 +9040,8 @@
     "percent_change_1h": "1.56",
     "percent_change_24h": "8.36",
     "percent_change_7d": "15.57",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-06-14"
   },
   {
     "id": "joulecoin",
@@ -8975,7 +9057,8 @@
     "percent_change_1h": "8.97",
     "percent_change_24h": "19.13",
     "percent_change_7d": "22.36",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2013-12-06"
   },
   {
     "id": "exchangen",
@@ -8991,7 +9074,8 @@
     "percent_change_1h": "-12.25",
     "percent_change_24h": "-21.58",
     "percent_change_7d": null,
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-10-16"
   },
   {
     "id": "ronpaulcoin",
@@ -9007,7 +9091,8 @@
     "percent_change_1h": "8.12",
     "percent_change_24h": "7.06",
     "percent_change_7d": "199.94",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2014-01-06"
   },
   {
     "id": "x-coin",
@@ -9023,7 +9108,8 @@
     "percent_change_1h": "4.74",
     "percent_change_24h": "19.11",
     "percent_change_7d": "-6.21",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2015-03-06"
   },
   {
     "id": "cryptoworldx-token",
@@ -9039,7 +9125,8 @@
     "percent_change_1h": "3.39",
     "percent_change_24h": "-20.15",
     "percent_change_7d": "-82.36",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-02-15"
   },
   {
     "id": "bitquark",
@@ -9055,7 +9142,8 @@
     "percent_change_1h": "4.81",
     "percent_change_24h": "6.2",
     "percent_change_7d": "236.75",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2014-07-29"
   },
   {
     "id": "boostcoin",
@@ -9071,7 +9159,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "-3.79",
     "percent_change_7d": "108.93",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-05-30"
   },
   {
     "id": "falcoin",
@@ -9087,7 +9176,8 @@
     "percent_change_1h": "-6.73",
     "percent_change_24h": "-14.87",
     "percent_change_7d": "-85.91",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-07-11"
   },
   {
     "id": "gapcoin",
@@ -9103,7 +9193,8 @@
     "percent_change_1h": "5.67",
     "percent_change_24h": "40.1",
     "percent_change_7d": "9.37",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2014-11-01"
   },
   {
     "id": "droxne",
@@ -9119,7 +9210,8 @@
     "percent_change_1h": "12.06",
     "percent_change_24h": "11.3",
     "percent_change_7d": "17.55",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-09-14"
   },
   {
     "id": "c-bit",
@@ -9135,7 +9227,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "4.52",
     "percent_change_7d": "-20.44",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2016-03-16"
   },
   {
     "id": "prcoin",
@@ -9151,7 +9244,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "10.45",
     "percent_change_7d": "3.39",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-02-26"
   },
   {
     "id": "virtacoinplus",
@@ -9167,7 +9261,8 @@
     "percent_change_1h": "7.1",
     "percent_change_24h": "-39.96",
     "percent_change_7d": "-78.4",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-03-14"
   },
   {
     "id": "bitcoinfast",
@@ -9183,7 +9278,8 @@
     "percent_change_1h": "26.4",
     "percent_change_24h": "30.24",
     "percent_change_7d": "1.65",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2014-12-07"
   },
   {
     "id": "digitalcoin",
@@ -9199,7 +9295,8 @@
     "percent_change_1h": "3.52",
     "percent_change_24h": "-0.86",
     "percent_change_7d": "-21.76",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-06-09"
   },
   {
     "id": "paycon",
@@ -9215,7 +9312,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "7.76",
     "percent_change_7d": "-1.98",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2015-02-15"
   },
   {
     "id": "pulse",
@@ -9231,7 +9329,8 @@
     "percent_change_1h": "4.97",
     "percent_change_24h": "221.7",
     "percent_change_7d": "79.12",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2016-03-14"
   },
   {
     "id": "neurodao",
@@ -9247,7 +9346,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "17.6",
     "percent_change_7d": "-23.38",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-09-13"
   },
   {
     "id": "biteur",
@@ -9263,7 +9363,8 @@
     "percent_change_1h": "1.59",
     "percent_change_24h": "1.87",
     "percent_change_7d": "1.25",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-06-08"
   },
   {
     "id": "zurcoin",
@@ -9279,7 +9380,8 @@
     "percent_change_1h": "4.93",
     "percent_change_24h": "-14.42",
     "percent_change_7d": "-31.42",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-05-09"
   },
   {
     "id": "rimbit",
@@ -9295,7 +9397,8 @@
     "percent_change_1h": "4.71",
     "percent_change_24h": "10.73",
     "percent_change_7d": "10.65",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2014-10-26"
   },
   {
     "id": "tristar-coin",
@@ -9311,7 +9414,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "-15.16",
     "percent_change_7d": "-3.96",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-04-01"
   },
   {
     "id": "master-swiscoin",
@@ -9327,7 +9431,8 @@
     "percent_change_1h": "4.31",
     "percent_change_24h": "4.88",
     "percent_change_7d": "16.27",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-02-22"
   },
   {
     "id": "litecoin-plus",
@@ -9343,7 +9448,8 @@
     "percent_change_1h": "5.07",
     "percent_change_24h": "-4.3",
     "percent_change_7d": "8.13",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-05-21"
   },
   {
     "id": "marijuanacoin",
@@ -9359,7 +9465,8 @@
     "percent_change_1h": "4.79",
     "percent_change_24h": "5.12",
     "percent_change_7d": "11.72",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-02-22"
   },
   {
     "id": "tajcoin",
@@ -9375,7 +9482,8 @@
     "percent_change_1h": "-11.6",
     "percent_change_24h": "4.03",
     "percent_change_7d": "38.98",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-08-19"
   },
   {
     "id": "campuscoin",
@@ -9391,7 +9499,8 @@
     "percent_change_1h": "3.86",
     "percent_change_24h": "18.83",
     "percent_change_7d": "-17.8",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-07-27"
   },
   {
     "id": "solarflarecoin",
@@ -9407,7 +9516,8 @@
     "percent_change_1h": "44.31",
     "percent_change_24h": "25.69",
     "percent_change_7d": "76.03",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-02-07"
   },
   {
     "id": "money",
@@ -9423,7 +9533,8 @@
     "percent_change_1h": "1.74",
     "percent_change_24h": "-14.81",
     "percent_change_7d": "22.87",
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2015-11-12"
   },
   {
     "id": "coimatic-2",
@@ -9439,7 +9550,8 @@
     "percent_change_1h": "-23.15",
     "percent_change_24h": "-24.71",
     "percent_change_7d": "23.14",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-07-24"
   },
   {
     "id": "tickets",
@@ -9455,7 +9567,8 @@
     "percent_change_1h": "0.78",
     "percent_change_24h": "-2.76",
     "percent_change_7d": "-45.82",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-11-03"
   },
   {
     "id": "neuro",
@@ -9471,7 +9584,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "-6.86",
     "percent_change_7d": "-20.88",
-    "last_updated": "1508511558"
+    "last_updated": "1508511558",
+    "date_added": "2017-06-13"
   },
   {
     "id": "creatio",
@@ -9487,7 +9601,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "19.74",
     "percent_change_7d": "-7.25",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-12-01"
   },
   {
     "id": "kronecoin",
@@ -9503,7 +9618,8 @@
     "percent_change_1h": "13.11",
     "percent_change_24h": "5.48",
     "percent_change_7d": "-31.84",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-09-06"
   },
   {
     "id": "veros",
@@ -9519,7 +9635,8 @@
     "percent_change_1h": "5.57",
     "percent_change_24h": "85.36",
     "percent_change_7d": "71.93",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-11-29"
   },
   {
     "id": "crevacoin",
@@ -9535,7 +9652,8 @@
     "percent_change_1h": "11.5",
     "percent_change_24h": "-6.35",
     "percent_change_7d": "-21.82",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2015-07-07"
   },
   {
     "id": "dix-asset",
@@ -9551,7 +9669,8 @@
     "percent_change_1h": "20.36",
     "percent_change_24h": "130.47",
     "percent_change_7d": "208.6",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2017-01-12"
   },
   {
     "id": "chncoin",
@@ -9567,7 +9686,8 @@
     "percent_change_1h": "3.98",
     "percent_change_24h": "-1.48",
     "percent_change_7d": "-20.15",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-05-08"
   },
   {
     "id": "wallet-builders-coin",
@@ -9583,7 +9703,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "122.46",
     "percent_change_7d": "-3.5",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-09-13"
   },
   {
     "id": "frazcoin",
@@ -9599,7 +9720,8 @@
     "percent_change_1h": "4.92",
     "percent_change_24h": "48.73",
     "percent_change_7d": "-30.95",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-23"
   },
   {
     "id": "litecoin-ultra",
@@ -9615,7 +9737,8 @@
     "percent_change_1h": "7.33",
     "percent_change_24h": "-11.28",
     "percent_change_7d": "-51.94",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-08-30"
   },
   {
     "id": "project-x",
@@ -9631,7 +9754,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-21.41",
     "percent_change_7d": "-20.47",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2017-05-30"
   },
   {
     "id": "levoplus",
@@ -9647,7 +9771,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "-6.2",
     "percent_change_7d": "-44.24",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-03-09"
   },
   {
     "id": "harmonycoin-hmc",
@@ -9663,7 +9788,8 @@
     "percent_change_1h": "0.31",
     "percent_change_24h": "-0.2",
     "percent_change_7d": "53.71",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-07-24"
   },
   {
     "id": "1337coin",
@@ -9679,7 +9805,8 @@
     "percent_change_1h": "-7.55",
     "percent_change_24h": "7.7",
     "percent_change_7d": "0.9",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2015-11-09"
   },
   {
     "id": "ebittree-coin",
@@ -9695,7 +9822,8 @@
     "percent_change_1h": "3.08",
     "percent_change_24h": "-19.86",
     "percent_change_7d": "-70.27",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2017-04-18"
   },
   {
     "id": "digital-money-bits",
@@ -9711,7 +9839,8 @@
     "percent_change_1h": "7.15",
     "percent_change_24h": "-1.49",
     "percent_change_7d": "-34.4",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2017-05-24"
   },
   {
     "id": "applecoin-apw",
@@ -9727,7 +9856,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "11.69",
     "percent_change_7d": "-80.46",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-12"
   },
   {
     "id": "target-coin",
@@ -9743,7 +9873,8 @@
     "percent_change_1h": "3.3",
     "percent_change_24h": "-4.23",
     "percent_change_7d": "7.87",
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-09-29"
   },
   {
     "id": "xplay",
@@ -9759,7 +9890,8 @@
     "percent_change_1h": "0.34",
     "percent_change_24h": "-1.49",
     "percent_change_7d": "-8.14",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-09-19"
   },
   {
     "id": "jinn",
@@ -9775,7 +9907,8 @@
     "percent_change_1h": "3.32",
     "percent_change_24h": "2.66",
     "percent_change_7d": "9.51",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2014-10-03"
   },
   {
     "id": "xcurrency",
@@ -9791,7 +9924,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "12.0",
     "percent_change_7d": "-4.43",
-    "last_updated": "1508511544"
+    "last_updated": "1508511544",
+    "date_added": "2014-05-23"
   },
   {
     "id": "arcade-token",
@@ -9807,7 +9941,8 @@
     "percent_change_1h": "0.44",
     "percent_change_24h": "-0.4",
     "percent_change_7d": "358.95",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-12-01"
   },
   {
     "id": "ecobit",
@@ -9823,7 +9958,8 @@
     "percent_change_1h": "4.93",
     "percent_change_24h": "20.53",
     "percent_change_7d": "-3.84",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-07-05"
   },
   {
     "id": "prospectors-gold",
@@ -9839,7 +9975,8 @@
     "percent_change_1h": "4.69",
     "percent_change_24h": "49.61",
     "percent_change_7d": "-25.85",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-10-07"
   },
   {
     "id": "stakecoin-stcn",
@@ -9855,7 +9992,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-1.26",
     "percent_change_7d": null,
-    "last_updated": "1508491762"
+    "last_updated": "1508491762",
+    "date_added": "2017-08-09"
   },
   {
     "id": "cagecoin",
@@ -9871,7 +10009,8 @@
     "percent_change_1h": "4.67",
     "percent_change_24h": "441.03",
     "percent_change_7d": "1395.35",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-04-15"
   },
   {
     "id": "colossuscoin-v2",
@@ -9887,7 +10026,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "4.78",
     "percent_change_7d": "106.08",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2015-03-20"
   },
   {
     "id": "janus",
@@ -9903,7 +10043,8 @@
     "percent_change_1h": "3.46",
     "percent_change_24h": "9.39",
     "percent_change_7d": "24.98",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2017-01-26"
   },
   {
     "id": "luckchain",
@@ -9919,7 +10060,8 @@
     "percent_change_1h": "-1.95",
     "percent_change_24h": "9.23",
     "percent_change_7d": "-7.9",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2016-11-29"
   },
   {
     "id": "yashcoin",
@@ -9935,7 +10077,8 @@
     "percent_change_1h": "-14.47",
     "percent_change_24h": "-6.31",
     "percent_change_7d": "-15.83",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2017-01-04"
   },
   {
     "id": "ico-openledger",
@@ -9951,7 +10094,8 @@
     "percent_change_1h": "2.23",
     "percent_change_24h": "12.76",
     "percent_change_7d": "18.01",
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2016-06-03"
   },
   {
     "id": "asiacoin",
@@ -9967,7 +10111,8 @@
     "percent_change_1h": "4.67",
     "percent_change_24h": "-32.14",
     "percent_change_7d": "-23.99",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-04-20"
   },
   {
     "id": "quark",
@@ -9983,7 +10128,8 @@
     "percent_change_1h": "4.91",
     "percent_change_24h": "3.29",
     "percent_change_7d": "2.55",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-08-25"
   },
   {
     "id": "inpay",
@@ -9999,7 +10145,8 @@
     "percent_change_1h": "23.82",
     "percent_change_24h": "-0.46",
     "percent_change_7d": "-10.17",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-04-17"
   },
   {
     "id": "britcoin",
@@ -10015,7 +10162,8 @@
     "percent_change_1h": "0.22",
     "percent_change_24h": "9.94",
     "percent_change_7d": "22.32",
-    "last_updated": "1508511544"
+    "last_updated": "1508511544",
+    "date_added": "2014-07-03"
   },
   {
     "id": "link-platform",
@@ -10031,7 +10179,8 @@
     "percent_change_1h": "0.42",
     "percent_change_24h": "-3.31",
     "percent_change_7d": "-22.11",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-07-18"
   },
   {
     "id": "teslacoin",
@@ -10047,7 +10196,8 @@
     "percent_change_1h": "13.15",
     "percent_change_24h": "51.35",
     "percent_change_7d": "41.79",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-02-06"
   },
   {
     "id": "shadowcash",
@@ -10063,7 +10213,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": null,
     "percent_change_7d": null,
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2014-07-31"
   },
   {
     "id": "smartcoin",
@@ -10079,7 +10230,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "16.64",
     "percent_change_7d": "24.34",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2014-02-06"
   },
   {
     "id": "megacoin",
@@ -10095,7 +10247,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "4.96",
     "percent_change_7d": "-3.44",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-07-07"
   },
   {
     "id": "metalcoin",
@@ -10111,7 +10264,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "17.46",
     "percent_change_7d": "-9.72",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-01-28"
   },
   {
     "id": "maxcoin",
@@ -10127,7 +10281,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "1.04",
     "percent_change_7d": "-13.6",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-02-12"
   },
   {
     "id": "ltbcoin",
@@ -10143,7 +10298,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": null,
-    "last_updated": "1508320745"
+    "last_updated": "1508320745",
+    "date_added": "2014-08-20"
   },
   {
     "id": "bitz",
@@ -10159,7 +10315,8 @@
     "percent_change_1h": "4.81",
     "percent_change_24h": null,
     "percent_change_7d": "-59.31",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2015-03-09"
   },
   {
     "id": "kekcoin",
@@ -10175,7 +10332,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "2.58",
     "percent_change_7d": "-12.12",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-07-31"
   },
   {
     "id": "russiacoin",
@@ -10191,7 +10349,8 @@
     "percent_change_1h": "4.22",
     "percent_change_24h": "16.72",
     "percent_change_7d": "16.68",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2016-01-05"
   },
   {
     "id": "cryptcoin",
@@ -10207,7 +10366,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "7.18",
     "percent_change_7d": null,
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-05-26"
   },
   {
     "id": "etheriya",
@@ -10223,7 +10383,8 @@
     "percent_change_1h": "7.11",
     "percent_change_24h": "143.19",
     "percent_change_7d": "43.94",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-14"
   },
   {
     "id": "hitcoin",
@@ -10239,7 +10400,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-41.29",
     "percent_change_7d": "5.16",
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2016-04-08"
   },
   {
     "id": "iticoin",
@@ -10255,7 +10417,8 @@
     "percent_change_1h": "1.35",
     "percent_change_24h": "6.62",
     "percent_change_7d": "-10.11",
-    "last_updated": "1508511558"
+    "last_updated": "1508511558",
+    "date_added": "2017-05-12"
   },
   {
     "id": "version",
@@ -10271,7 +10434,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "26.23",
     "percent_change_7d": "86.94",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2017-06-01"
   },
   {
     "id": "pandacoin-pnd",
@@ -10287,7 +10451,8 @@
     "percent_change_1h": "1.19",
     "percent_change_24h": "33.86",
     "percent_change_7d": "-58.88",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-02-27"
   },
   {
     "id": "netcoin",
@@ -10303,7 +10468,8 @@
     "percent_change_1h": "4.17",
     "percent_change_24h": "27.39",
     "percent_change_7d": "21.33",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-12-17"
   },
   {
     "id": "ufo-coin",
@@ -10319,7 +10485,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "4.76",
     "percent_change_7d": "5.16",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-02-27"
   },
   {
     "id": "ether-for-the-rest-of-the-world",
@@ -10335,7 +10502,8 @@
     "percent_change_1h": "0.34",
     "percent_change_24h": "4.89",
     "percent_change_7d": "-7.95",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-07-05"
   },
   {
     "id": "starcredits",
@@ -10351,7 +10519,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-3.37",
     "percent_change_7d": "-32.82",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-09-06"
   },
   {
     "id": "shorty",
@@ -10367,7 +10536,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "1.38",
     "percent_change_7d": "-1.35",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-12-15"
   },
   {
     "id": "ultracoin",
@@ -10383,7 +10553,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "10.95",
     "percent_change_7d": "9.23",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-02-10"
   },
   {
     "id": "canada-ecoin",
@@ -10399,7 +10570,8 @@
     "percent_change_1h": "4.69",
     "percent_change_24h": "1.86",
     "percent_change_7d": "1.33",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-05-11"
   },
   {
     "id": "noblecoin",
@@ -10415,7 +10587,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "1.36",
     "percent_change_7d": "-3.5",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-02-08"
   },
   {
     "id": "bowhead",
@@ -10431,7 +10604,8 @@
     "percent_change_1h": "2.79",
     "percent_change_24h": "-56.86",
     "percent_change_7d": "-64.3",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-09-16"
   },
   {
     "id": "rustbits",
@@ -10447,7 +10621,8 @@
     "percent_change_1h": "0.52",
     "percent_change_24h": "2.28",
     "percent_change_7d": "5.25",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-09"
   },
   {
     "id": "orbitcoin",
@@ -10463,7 +10638,8 @@
     "percent_change_1h": "4.65",
     "percent_change_24h": "13.22",
     "percent_change_7d": "42.89",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2013-12-21"
   },
   {
     "id": "supercoin",
@@ -10479,7 +10655,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "4.69",
     "percent_change_7d": "39.59",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-05-26"
   },
   {
     "id": "wavesgo",
@@ -10495,7 +10672,8 @@
     "percent_change_1h": "11.85",
     "percent_change_24h": "14.77",
     "percent_change_7d": "9.38",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-04-25"
   },
   {
     "id": "casino",
@@ -10511,7 +10689,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-1.83",
     "percent_change_7d": "-10.97",
-    "last_updated": "1508506455"
+    "last_updated": "1508506455",
+    "date_added": "2017-03-15"
   },
   {
     "id": "bitbar",
@@ -10527,7 +10706,8 @@
     "percent_change_1h": "5.54",
     "percent_change_24h": "16.12",
     "percent_change_7d": "10.25",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-05-09"
   },
   {
     "id": "ohm-wallet",
@@ -10543,7 +10723,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "34.62",
     "percent_change_7d": "57.78",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2017-06-06"
   },
   {
     "id": "unitus",
@@ -10559,7 +10740,8 @@
     "percent_change_1h": "4.29",
     "percent_change_24h": "6.1",
     "percent_change_7d": "12.64",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2015-01-12"
   },
   {
     "id": "kobocoin",
@@ -10575,7 +10757,8 @@
     "percent_change_1h": "4.96",
     "percent_change_24h": "3.12",
     "percent_change_7d": "-51.68",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2015-02-15"
   },
   {
     "id": "btsr",
@@ -10591,7 +10774,8 @@
     "percent_change_1h": "0.9",
     "percent_change_24h": "-1.07",
     "percent_change_7d": "7.04",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-03-22"
   },
   {
     "id": "cryptonite",
@@ -10607,7 +10791,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "4.78",
     "percent_change_7d": "3.39",
-    "last_updated": "1508511544"
+    "last_updated": "1508511544",
+    "date_added": "2014-08-02"
   },
   {
     "id": "carboncoin",
@@ -10623,7 +10808,8 @@
     "percent_change_1h": "-12.1",
     "percent_change_24h": "-36.31",
     "percent_change_7d": null,
-    "last_updated": "1508511544"
+    "last_updated": "1508511544",
+    "date_added": "2014-08-02"
   },
   {
     "id": "universal-currency",
@@ -10639,7 +10825,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "406.01",
     "percent_change_7d": "48.37",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-05-07"
   },
   {
     "id": "trollcoin",
@@ -10655,7 +10842,8 @@
     "percent_change_1h": "4.51",
     "percent_change_24h": "6.73",
     "percent_change_7d": "-0.21",
-    "last_updated": "1508511544"
+    "last_updated": "1508511544",
+    "date_added": "2014-09-30"
   },
   {
     "id": "piggycoin",
@@ -10671,7 +10859,8 @@
     "percent_change_1h": "-35.03",
     "percent_change_24h": "2.16",
     "percent_change_7d": "28.53",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-06-15"
   },
   {
     "id": "hobonickels",
@@ -10687,7 +10876,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "3.86",
     "percent_change_7d": "-0.19",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-12-20"
   },
   {
     "id": "mazacoin",
@@ -10703,7 +10893,8 @@
     "percent_change_1h": "-8.14",
     "percent_change_24h": "3.82",
     "percent_change_7d": "3.13",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-02-27"
   },
   {
     "id": "globalcoin",
@@ -10719,7 +10910,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-0.89",
     "percent_change_7d": "0.34",
-    "last_updated": "1508501940"
+    "last_updated": "1508501940",
+    "date_added": "2013-08-04"
   },
   {
     "id": "trumpcoin",
@@ -10735,7 +10927,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "6.57",
     "percent_change_7d": "-0.43",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-03-01"
   },
   {
     "id": "fuelcoin",
@@ -10751,7 +10944,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "47.16",
     "percent_change_7d": "32.34",
-    "last_updated": "1508511544"
+    "last_updated": "1508511544",
+    "date_added": "2014-06-12"
   },
   {
     "id": "ambercoin",
@@ -10767,7 +10961,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-1.19",
     "percent_change_7d": "-19.26",
-    "last_updated": "1508482145"
+    "last_updated": "1508482145",
+    "date_added": "2015-02-06"
   },
   {
     "id": "gaia",
@@ -10783,7 +10978,8 @@
     "percent_change_1h": "84.8",
     "percent_change_24h": "-2.94",
     "percent_change_7d": "17.91",
-    "last_updated": "1508511544"
+    "last_updated": "1508511544",
+    "date_added": "2014-10-11"
   },
   {
     "id": "stress",
@@ -10799,7 +10995,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": null,
-    "last_updated": "1508247849"
+    "last_updated": "1508247849",
+    "date_added": "2016-03-01"
   },
   {
     "id": "goodomy",
@@ -10815,7 +11012,8 @@
     "percent_change_1h": "4.82",
     "percent_change_24h": "-2.62",
     "percent_change_7d": "49.06",
-    "last_updated": "1508511558"
+    "last_updated": "1508511558",
+    "date_added": "2017-06-25"
   },
   {
     "id": "phoenixcoin",
@@ -10831,7 +11029,8 @@
     "percent_change_1h": "4.72",
     "percent_change_24h": "13.17",
     "percent_change_7d": "25.9",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-07-04"
   },
   {
     "id": "bunnycoin",
@@ -10847,7 +11046,8 @@
     "percent_change_1h": "16.42",
     "percent_change_24h": "-43.59",
     "percent_change_7d": "91.97",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2014-09-11"
   },
   {
     "id": "bit20",
@@ -10863,7 +11063,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": "56.8",
-    "last_updated": "1508403860"
+    "last_updated": "1508403860",
+    "date_added": "2017-07-18"
   },
   {
     "id": "ultimate-secure-cash",
@@ -10879,7 +11080,8 @@
     "percent_change_1h": "22.06",
     "percent_change_24h": "-49.29",
     "percent_change_7d": "-64.07",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-04-11"
   },
   {
     "id": "cryptoforecast",
@@ -10895,7 +11097,8 @@
     "percent_change_1h": "12.26",
     "percent_change_24h": "22.48",
     "percent_change_7d": "88.1",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2017-06-10"
   },
   {
     "id": "devcoin",
@@ -10911,7 +11114,8 @@
     "percent_change_1h": "4.13",
     "percent_change_24h": "-1.9",
     "percent_change_7d": "-7.56",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-04-28"
   },
   {
     "id": "kayicoin",
@@ -10927,7 +11131,8 @@
     "percent_change_1h": "4.8",
     "percent_change_24h": "24.6",
     "percent_change_7d": "22.84",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-07-01"
   },
   {
     "id": "aurumcoin",
@@ -10943,7 +11148,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-55.81",
     "percent_change_7d": "3.29",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2014-10-09"
   },
   {
     "id": "i0coin",
@@ -10959,7 +11165,8 @@
     "percent_change_1h": "-14.35",
     "percent_change_24h": "-14.78",
     "percent_change_7d": "-20.69",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2013-11-27"
   },
   {
     "id": "tagcoin",
@@ -10975,7 +11182,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-8.11",
     "percent_change_7d": "-41.64",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-11-05"
   },
   {
     "id": "blockpay",
@@ -10991,7 +11199,8 @@
     "percent_change_1h": "0.8",
     "percent_change_24h": "-10.93",
     "percent_change_7d": "-2.67",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-09-05"
   },
   {
     "id": "newbium",
@@ -11007,7 +11216,8 @@
     "percent_change_1h": "4.6",
     "percent_change_24h": "-9.34",
     "percent_change_7d": "-32.86",
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2016-06-02"
   },
   {
     "id": "titcoin",
@@ -11023,7 +11233,8 @@
     "percent_change_1h": "-2.09",
     "percent_change_24h": "-1.98",
     "percent_change_7d": "-6.89",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2014-08-26"
   },
   {
     "id": "virtacoin",
@@ -11039,7 +11250,8 @@
     "percent_change_1h": "13.03",
     "percent_change_24h": "862.91",
     "percent_change_7d": "1335.46",
-    "last_updated": "1508511544"
+    "last_updated": "1508511544",
+    "date_added": "2014-08-09"
   },
   {
     "id": "lottocoin",
@@ -11055,7 +11267,8 @@
     "percent_change_1h": "2.89",
     "percent_change_24h": "10.53",
     "percent_change_7d": "53.86",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-12-28"
   },
   {
     "id": "8bit",
@@ -11071,7 +11284,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-7.63",
     "percent_change_7d": "-9.47",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-04-18"
   },
   {
     "id": "hodlcoin",
@@ -11087,7 +11301,8 @@
     "percent_change_1h": "38.26",
     "percent_change_24h": "21.52",
     "percent_change_7d": "-1.11",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-03-18"
   },
   {
     "id": "purevidz",
@@ -11103,7 +11318,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "10.05",
     "percent_change_7d": "25.73",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2017-01-19"
   },
   {
     "id": "btctalkcoin",
@@ -11119,7 +11335,8 @@
     "percent_change_1h": "7.61",
     "percent_change_24h": "3.57",
     "percent_change_7d": "-16.93",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-05-02"
   },
   {
     "id": "pesobit",
@@ -11135,7 +11352,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "0.0",
     "percent_change_7d": "5.61",
-    "last_updated": "1508457252"
+    "last_updated": "1508457252",
+    "date_added": "2016-09-29"
   },
   {
     "id": "shadow-token",
@@ -11151,7 +11369,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "37.98",
     "percent_change_7d": "-31.23",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-12"
   },
   {
     "id": "icoin",
@@ -11167,7 +11386,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "12.62",
     "percent_change_7d": "10.05",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-02-17"
   },
   {
     "id": "opal",
@@ -11183,7 +11403,8 @@
     "percent_change_1h": "8.74",
     "percent_change_24h": "0.66",
     "percent_change_7d": "6.4",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2014-09-13"
   },
   {
     "id": "universe",
@@ -11199,7 +11420,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "10.45",
     "percent_change_7d": "4.62",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-04-01"
   },
   {
     "id": "slimcoin",
@@ -11215,7 +11437,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": null,
     "percent_change_7d": "60.26",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2015-02-15"
   },
   {
     "id": "paycoin2",
@@ -11231,7 +11454,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "5.1",
     "percent_change_7d": "-7.74",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2014-12-16"
   },
   {
     "id": "valorbit",
@@ -11247,7 +11471,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": null,
-    "last_updated": "1508293449"
+    "last_updated": "1508293449",
+    "date_added": "2016-04-08"
   },
   {
     "id": "honey",
@@ -11263,7 +11488,8 @@
     "percent_change_1h": "2.53",
     "percent_change_24h": "11.21",
     "percent_change_7d": "29.22",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-03-20"
   },
   {
     "id": "mineum",
@@ -11279,7 +11505,8 @@
     "percent_change_1h": "0.15",
     "percent_change_24h": "-2.8",
     "percent_change_7d": "-12.1",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2016-06-08"
   },
   {
     "id": "flycoin",
@@ -11295,7 +11522,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": "4.69",
-    "last_updated": "1508326147"
+    "last_updated": "1508326147",
+    "date_added": "2015-09-14"
   },
   {
     "id": "darsek",
@@ -11311,7 +11539,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "4.78",
     "percent_change_7d": "29.09",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-04-06"
   },
   {
     "id": "fluttercoin",
@@ -11327,7 +11556,8 @@
     "percent_change_1h": "4.8",
     "percent_change_24h": "-9.26",
     "percent_change_7d": "-8.87",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-03-20"
   },
   {
     "id": "coin",
@@ -11343,7 +11573,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "-24.08",
     "percent_change_7d": null,
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-03-18"
   },
   {
     "id": "the-cypherfunks",
@@ -11359,7 +11590,8 @@
     "percent_change_1h": "3.82",
     "percent_change_24h": "1.87",
     "percent_change_7d": "-1.75",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-06-18"
   },
   {
     "id": "theresa-may-coin",
@@ -11375,7 +11607,8 @@
     "percent_change_1h": "13.68",
     "percent_change_24h": "36.39",
     "percent_change_7d": "3.46",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2017-05-30"
   },
   {
     "id": "francs",
@@ -11391,7 +11624,8 @@
     "percent_change_1h": "6.86",
     "percent_change_24h": "-2.44",
     "percent_change_7d": "-26.94",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2016-01-31"
   },
   {
     "id": "tekcoin",
@@ -11407,7 +11641,8 @@
     "percent_change_1h": "3.98",
     "percent_change_24h": "-12.27",
     "percent_change_7d": "14.67",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-05-20"
   },
   {
     "id": "sproutsextreme",
@@ -11423,7 +11658,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": null,
     "percent_change_7d": null,
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-03-01"
   },
   {
     "id": "wayguide",
@@ -11439,7 +11675,8 @@
     "percent_change_1h": "0.25",
     "percent_change_24h": "-0.03",
     "percent_change_7d": "-2.23",
-    "last_updated": "1508507951"
+    "last_updated": "1508507951",
+    "date_added": "2016-08-30"
   },
   {
     "id": "grantcoin",
@@ -11455,7 +11692,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "60.83",
     "percent_change_7d": "50.44",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2015-07-27"
   },
   {
     "id": "sterlingcoin",
@@ -11471,7 +11709,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "5.84",
     "percent_change_7d": "-10.42",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2014-09-23"
   },
   {
     "id": "jin-coin",
@@ -11487,7 +11726,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "1.5",
     "percent_change_7d": "20.46",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2016-09-17"
   },
   {
     "id": "petrodollar",
@@ -11503,7 +11743,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "30.77",
     "percent_change_7d": "22.67",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-04-15"
   },
   {
     "id": "bitcurrency",
@@ -11519,7 +11760,8 @@
     "percent_change_1h": "4.79",
     "percent_change_24h": "95.88",
     "percent_change_7d": "22.68",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-11-18"
   },
   {
     "id": "bottlecaps",
@@ -11535,7 +11777,8 @@
     "percent_change_1h": "11.72",
     "percent_change_24h": "12.82",
     "percent_change_7d": "-11.32",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-07-04"
   },
   {
     "id": "kushcoin",
@@ -11551,7 +11794,8 @@
     "percent_change_1h": "4.78",
     "percent_change_24h": "20.73",
     "percent_change_7d": "5.0",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-02-08"
   },
   {
     "id": "cypher",
@@ -11567,7 +11811,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "4.55",
     "percent_change_7d": "4.61",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-04-11"
   },
   {
     "id": "bitsilver",
@@ -11583,7 +11828,8 @@
     "percent_change_1h": "0.8",
     "percent_change_24h": "3.45",
     "percent_change_7d": "1.24",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2015-02-25"
   },
   {
     "id": "elcoin-el",
@@ -11599,7 +11845,8 @@
     "percent_change_1h": "5.95",
     "percent_change_24h": "1.65",
     "percent_change_7d": "-21.26",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-05-05"
   },
   {
     "id": "lanacoin",
@@ -11615,7 +11862,8 @@
     "percent_change_1h": "7.17",
     "percent_change_24h": "-21.11",
     "percent_change_7d": "-21.37",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-05-18"
   },
   {
     "id": "cannacoin",
@@ -11631,7 +11879,8 @@
     "percent_change_1h": "4.79",
     "percent_change_24h": "-5.55",
     "percent_change_7d": "-3.13",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-04-25"
   },
   {
     "id": "tigercoin",
@@ -11647,7 +11896,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "21.16",
     "percent_change_7d": "16.26",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-12-21"
   },
   {
     "id": "cryptojacks",
@@ -11663,7 +11913,8 @@
     "percent_change_1h": "5.0",
     "percent_change_24h": "8.8",
     "percent_change_7d": "4.98",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-07-11"
   },
   {
     "id": "truckcoin",
@@ -11679,7 +11930,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-13.92",
     "percent_change_7d": "-21.78",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2014-07-16"
   },
   {
     "id": "guncoin",
@@ -11695,7 +11947,8 @@
     "percent_change_1h": "4.85",
     "percent_change_24h": "3.96",
     "percent_change_7d": "18.17",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-05-11"
   },
   {
     "id": "nyancoin",
@@ -11711,7 +11964,8 @@
     "percent_change_1h": "11.49",
     "percent_change_24h": "3.06",
     "percent_change_7d": "-10.02",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-02-10"
   },
   {
     "id": "digicube",
@@ -11727,7 +11981,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": null,
     "percent_change_7d": "4.92",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2015-10-24"
   },
   {
     "id": "emoneypower",
@@ -11743,7 +11998,8 @@
     "percent_change_1h": "4.86",
     "percent_change_24h": "-1.77",
     "percent_change_7d": "-56.17",
-    "last_updated": "1508511558"
+    "last_updated": "1508511558",
+    "date_added": "2017-06-24"
   },
   {
     "id": "unicoin",
@@ -11759,7 +12015,8 @@
     "percent_change_1h": "4.73",
     "percent_change_24h": "2.23",
     "percent_change_7d": "-20.72",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2015-06-14"
   },
   {
     "id": "usde",
@@ -11775,7 +12032,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "-30.14",
     "percent_change_7d": "-39.65",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2014-02-06"
   },
   {
     "id": "revolvercoin",
@@ -11791,7 +12049,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "-6.44",
     "percent_change_7d": "0.88",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2016-06-08"
   },
   {
     "id": "qubitcoin",
@@ -11807,7 +12066,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "4.78",
     "percent_change_7d": "-8.83",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-02-14"
   },
   {
     "id": "acoin",
@@ -11823,7 +12083,8 @@
     "percent_change_1h": "11.73",
     "percent_change_24h": "-8.52",
     "percent_change_7d": "-1.06",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2014-09-13"
   },
   {
     "id": "bigup",
@@ -11839,7 +12100,8 @@
     "percent_change_1h": "3.78",
     "percent_change_24h": "9.19",
     "percent_change_7d": "10.39",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-03-22"
   },
   {
     "id": "rupaya",
@@ -11855,7 +12117,8 @@
     "percent_change_1h": "4.82",
     "percent_change_24h": "10.5",
     "percent_change_7d": "-30.88",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-11"
   },
   {
     "id": "bitgold",
@@ -11871,7 +12134,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-1.52",
     "percent_change_7d": "14.29",
-    "last_updated": "1508472245"
+    "last_updated": "1508472245",
+    "date_added": "2015-01-04"
   },
   {
     "id": "gameunits",
@@ -11887,7 +12151,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "40.24",
     "percent_change_7d": "6.1",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2017-01-12"
   },
   {
     "id": "dt-token",
@@ -11903,7 +12168,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "109.56",
     "percent_change_7d": "-29.61",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-06-30"
   },
   {
     "id": "berncash",
@@ -11919,7 +12185,8 @@
     "percent_change_1h": "4.81",
     "percent_change_24h": "-7.09",
     "percent_change_7d": "-16.83",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-04-11"
   },
   {
     "id": "cannation",
@@ -11935,7 +12202,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "16.34",
     "percent_change_7d": "-18.82",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2017-05-13"
   },
   {
     "id": "funcoin",
@@ -11951,7 +12219,8 @@
     "percent_change_1h": "3.41",
     "percent_change_24h": "-48.59",
     "percent_change_7d": "-2.88",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2017-05-11"
   },
   {
     "id": "joincoin",
@@ -11967,7 +12236,8 @@
     "percent_change_1h": "-15.48",
     "percent_change_24h": "0.59",
     "percent_change_7d": "5.73",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2014-08-26"
   },
   {
     "id": "goldpieces",
@@ -11983,7 +12253,8 @@
     "percent_change_1h": "4.94",
     "percent_change_24h": "28.75",
     "percent_change_7d": "-7.79",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2015-01-16"
   },
   {
     "id": "flaxscript",
@@ -11999,7 +12270,8 @@
     "percent_change_1h": "19.34",
     "percent_change_24h": "24.83",
     "percent_change_7d": "5.65",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2015-07-25"
   },
   {
     "id": "blakecoin",
@@ -12015,7 +12287,8 @@
     "percent_change_1h": "4.73",
     "percent_change_24h": "-0.86",
     "percent_change_7d": "-6.71",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-02-12"
   },
   {
     "id": "corgicoin",
@@ -12031,7 +12304,8 @@
     "percent_change_1h": "4.66",
     "percent_change_24h": "-21.37",
     "percent_change_7d": "-3.28",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-02-21"
   },
   {
     "id": "chesscoin",
@@ -12047,7 +12321,8 @@
     "percent_change_1h": "4.5",
     "percent_change_24h": "-18.41",
     "percent_change_7d": "-24.85",
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2016-07-02"
   },
   {
     "id": "dollarcoin",
@@ -12063,7 +12338,8 @@
     "percent_change_1h": "4.62",
     "percent_change_24h": "6.81",
     "percent_change_7d": "-4.79",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-09-21"
   },
   {
     "id": "emerald",
@@ -12079,7 +12355,8 @@
     "percent_change_1h": "4.6",
     "percent_change_24h": "4.0",
     "percent_change_7d": "-18.93",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-08-04"
   },
   {
     "id": "smoke",
@@ -12095,7 +12372,8 @@
     "percent_change_1h": "2.37",
     "percent_change_24h": "-15.77",
     "percent_change_7d": "-22.17",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-19"
   },
   {
     "id": "yacoin",
@@ -12111,7 +12389,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-1.38",
     "percent_change_7d": "12.17",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-06-09"
   },
   {
     "id": "ripto-bux",
@@ -12127,7 +12406,8 @@
     "percent_change_1h": "4.81",
     "percent_change_24h": "12.77",
     "percent_change_7d": "-42.24",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-04-06"
   },
   {
     "id": "elementrem",
@@ -12143,7 +12423,8 @@
     "percent_change_1h": "5.0",
     "percent_change_24h": "-37.97",
     "percent_change_7d": "-1.59",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-08-08"
   },
   {
     "id": "satoshimadness",
@@ -12159,7 +12440,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-1.22",
     "percent_change_7d": null,
-    "last_updated": "1508483647"
+    "last_updated": "1508483647",
+    "date_added": "2015-09-01"
   },
   {
     "id": "globalboost-y",
@@ -12175,7 +12457,8 @@
     "percent_change_1h": "3.95",
     "percent_change_24h": "-7.68",
     "percent_change_7d": "-18.83",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2014-10-03"
   },
   {
     "id": "evil-coin",
@@ -12191,7 +12474,8 @@
     "percent_change_1h": "-11.05",
     "percent_change_24h": "1.72",
     "percent_change_7d": "3.61",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2016-01-31"
   },
   {
     "id": "quazarcoin",
@@ -12207,7 +12491,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "4.76",
     "percent_change_7d": "3.24",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-05-26"
   },
   {
     "id": "ecocoin",
@@ -12223,7 +12508,8 @@
     "percent_change_1h": "4.32",
     "percent_change_24h": "3.64",
     "percent_change_7d": "-0.16",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-05-24"
   },
   {
     "id": "chancoin",
@@ -12239,7 +12525,8 @@
     "percent_change_1h": "6.49",
     "percent_change_24h": "79.94",
     "percent_change_7d": "66.68",
-    "last_updated": "1508511558"
+    "last_updated": "1508511558",
+    "date_added": "2017-06-28"
   },
   {
     "id": "evotion",
@@ -12255,7 +12542,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "2.4",
     "percent_change_7d": "-3.63",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2015-12-10"
   },
   {
     "id": "kibicoin",
@@ -12271,7 +12559,8 @@
     "percent_change_1h": "4.97",
     "percent_change_24h": "10.32",
     "percent_change_7d": "3.27",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2017-06-01"
   },
   {
     "id": "octocoin",
@@ -12287,7 +12576,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "8.35",
     "percent_change_7d": "13.78",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-03-20"
   },
   {
     "id": "bittokens",
@@ -12303,7 +12593,8 @@
     "percent_change_1h": "7.95",
     "percent_change_24h": "-18.25",
     "percent_change_7d": "-39.99",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-08-26"
   },
   {
     "id": "tittiecoin",
@@ -12319,7 +12610,8 @@
     "percent_change_1h": "2.96",
     "percent_change_24h": "-23.3",
     "percent_change_7d": "-13.85",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2014-11-08"
   },
   {
     "id": "cachecoin",
@@ -12335,7 +12627,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "5.0",
     "percent_change_7d": "1.24",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-02-15"
   },
   {
     "id": "chronos",
@@ -12351,7 +12644,8 @@
     "percent_change_1h": "4.83",
     "percent_change_24h": "4.67",
     "percent_change_7d": "25.13",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2016-07-18"
   },
   {
     "id": "wmcoin",
@@ -12367,7 +12661,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": null,
-    "last_updated": "1508156949"
+    "last_updated": "1508156949",
+    "date_added": "2016-05-20"
   },
   {
     "id": "gpu-coin",
@@ -12383,7 +12678,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "5.67",
     "percent_change_7d": "19.45",
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2016-05-31"
   },
   {
     "id": "o2olondoncoin",
@@ -12399,7 +12695,8 @@
     "percent_change_1h": "4.21",
     "percent_change_24h": "2.93",
     "percent_change_7d": "6.12",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2015-09-15"
   },
   {
     "id": "coin2-1",
@@ -12415,7 +12712,8 @@
     "percent_change_1h": "2.63",
     "percent_change_24h": "-0.23",
     "percent_change_7d": "-19.88",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-06-08"
   },
   {
     "id": "parallelcoin",
@@ -12431,7 +12729,8 @@
     "percent_change_1h": "23.06",
     "percent_change_24h": "-16.41",
     "percent_change_7d": "13.14",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2015-10-24"
   },
   {
     "id": "franko",
@@ -12447,7 +12746,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": null,
-    "last_updated": "1508351940"
+    "last_updated": "1508351940",
+    "date_added": "2013-06-09"
   },
   {
     "id": "crypto",
@@ -12463,7 +12763,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "-14.92",
     "percent_change_7d": "-40.88",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2015-05-19"
   },
   {
     "id": "dreamcoin",
@@ -12479,7 +12780,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "5.14",
     "percent_change_7d": "7.55",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-05-13"
   },
   {
     "id": "halcyon",
@@ -12495,7 +12797,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "5.91",
     "percent_change_7d": "40.87",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2014-08-19"
   },
   {
     "id": "reecoin",
@@ -12511,7 +12814,8 @@
     "percent_change_1h": "19.21",
     "percent_change_24h": "-4.86",
     "percent_change_7d": "-36.87",
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2016-07-11"
   },
   {
     "id": "sativacoin",
@@ -12527,7 +12831,8 @@
     "percent_change_1h": "5.21",
     "percent_change_24h": "9.31",
     "percent_change_7d": "7.18",
-    "last_updated": "1508511544"
+    "last_updated": "1508511544",
+    "date_added": "2014-10-20"
   },
   {
     "id": "sling",
@@ -12543,7 +12848,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-0.05",
     "percent_change_7d": "6.19",
-    "last_updated": "1508446146"
+    "last_updated": "1508446146",
+    "date_added": "2015-04-21"
   },
   {
     "id": "antibitcoin",
@@ -12559,7 +12865,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "0.92",
     "percent_change_7d": "-6.26",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2015-12-15"
   },
   {
     "id": "firecoin",
@@ -12575,7 +12882,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "4.78",
     "percent_change_7d": "-13.13",
-    "last_updated": "1508511544"
+    "last_updated": "1508511544",
+    "date_added": "2014-07-21"
   },
   {
     "id": "hempcoin-hmp",
@@ -12591,7 +12899,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "4.78",
     "percent_change_7d": "5.16",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-02-16"
   },
   {
     "id": "ponzicoin",
@@ -12607,7 +12916,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "4.82",
     "percent_change_7d": "16.52",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-05-18"
   },
   {
     "id": "prime-xi",
@@ -12623,7 +12933,8 @@
     "percent_change_1h": "4.82",
     "percent_change_24h": "-8.7",
     "percent_change_7d": "-24.92",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2014-10-04"
   },
   {
     "id": "catcoin",
@@ -12639,7 +12950,8 @@
     "percent_change_1h": "16.0",
     "percent_change_24h": "17.55",
     "percent_change_7d": "-3.47",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-12-28"
   },
   {
     "id": "healthywormcoin",
@@ -12655,7 +12967,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "-11.59",
     "percent_change_7d": "26.19",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-03-30"
   },
   {
     "id": "mtmgaming",
@@ -12671,7 +12984,8 @@
     "percent_change_1h": "3.36",
     "percent_change_24h": "3.12",
     "percent_change_7d": "3.56",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-03-15"
   },
   {
     "id": "shilling",
@@ -12687,7 +13001,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-0.1",
     "percent_change_7d": null,
-    "last_updated": "1508462651"
+    "last_updated": "1508462651",
+    "date_added": "2016-09-19"
   },
   {
     "id": "argentum",
@@ -12703,7 +13018,8 @@
     "percent_change_1h": "6.88",
     "percent_change_24h": "11.82",
     "percent_change_7d": "-11.66",
-    "last_updated": "1508511540"
+    "last_updated": "1508511540",
+    "date_added": "2013-07-04"
   },
   {
     "id": "globaltoken",
@@ -12719,7 +13035,8 @@
     "percent_change_1h": "4.92",
     "percent_change_24h": "5.4",
     "percent_change_7d": "-6.95",
-    "last_updated": "1508511558"
+    "last_updated": "1508511558",
+    "date_added": "2017-06-19"
   },
   {
     "id": "guccionecoin",
@@ -12735,7 +13052,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-3.18",
     "percent_change_7d": "-5.66",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2015-08-21"
   },
   {
     "id": "quatloo",
@@ -12751,7 +13069,8 @@
     "percent_change_1h": "8.27",
     "percent_change_24h": "45.89",
     "percent_change_7d": "14.51",
-    "last_updated": "1508511544"
+    "last_updated": "1508511544",
+    "date_added": "2014-07-12"
   },
   {
     "id": "300-token",
@@ -12767,7 +13086,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "51.68",
     "percent_change_7d": "-6.27",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-07-25"
   },
   {
     "id": "aquariuscoin",
@@ -12783,7 +13103,8 @@
     "percent_change_1h": "3.69",
     "percent_change_24h": "-26.59",
     "percent_change_7d": "-21.34",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-05-04"
   },
   {
     "id": "securecoin",
@@ -12799,7 +13120,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-1.01",
     "percent_change_7d": "-8.57",
-    "last_updated": "1508489940"
+    "last_updated": "1508489940",
+    "date_added": "2013-09-28"
   },
   {
     "id": "redcoin",
@@ -12815,7 +13137,8 @@
     "percent_change_1h": "5.0",
     "percent_change_24h": "-0.19",
     "percent_change_7d": "6.22",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2014-01-24"
   },
   {
     "id": "islacoin",
@@ -12831,7 +13154,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "-44.17",
     "percent_change_7d": "8.63",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2015-09-28"
   },
   {
     "id": "virtualcoin",
@@ -12847,7 +13171,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": null,
     "percent_change_7d": "19.59",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2014-08-09"
   },
   {
     "id": "spacecoin",
@@ -12863,7 +13188,8 @@
     "percent_change_1h": "5.53",
     "percent_change_24h": "-32.45",
     "percent_change_7d": "-22.19",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2015-09-09"
   },
   {
     "id": "spots",
@@ -12879,7 +13205,8 @@
     "percent_change_1h": "3.62",
     "percent_change_24h": "-3.82",
     "percent_change_7d": "-11.78",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-07-25"
   },
   {
     "id": "pascal-lite",
@@ -12895,7 +13222,8 @@
     "percent_change_1h": "3.18",
     "percent_change_24h": "12.01",
     "percent_change_7d": "-30.96",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-03-18"
   },
   {
     "id": "aricoin",
@@ -12911,7 +13239,8 @@
     "percent_change_1h": "7.06",
     "percent_change_24h": "12.24",
     "percent_change_7d": "-14.16",
-    "last_updated": "1508511544"
+    "last_updated": "1508511544",
+    "date_added": "2014-02-20"
   },
   {
     "id": "unrealcoin",
@@ -12927,7 +13256,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "-3.1",
     "percent_change_7d": "-3.36",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2015-04-01"
   },
   {
     "id": "bumbacoin",
@@ -12943,7 +13273,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "6.92",
     "percent_change_7d": "-0.8",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2016-03-28"
   },
   {
     "id": "dibcoin",
@@ -12959,7 +13290,8 @@
     "percent_change_1h": "3.19",
     "percent_change_24h": "4.54",
     "percent_change_7d": "-2.34",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-04-06"
   },
   {
     "id": "marscoin",
@@ -12975,7 +13307,8 @@
     "percent_change_1h": "4.86",
     "percent_change_24h": "0.62",
     "percent_change_7d": "-16.39",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-02-24"
   },
   {
     "id": "tattoocoin",
@@ -12991,7 +13324,8 @@
     "percent_change_1h": "-2.38",
     "percent_change_24h": "8.33",
     "percent_change_7d": "-37.52",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-02-07"
   },
   {
     "id": "global-tour-coin",
@@ -13007,7 +13341,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": null,
     "percent_change_7d": "-5.67",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-07-11"
   },
   {
     "id": "compucoin",
@@ -13023,7 +13358,8 @@
     "percent_change_1h": "39.38",
     "percent_change_24h": "4.76",
     "percent_change_7d": "31.1",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2015-07-16"
   },
   {
     "id": "bitcoin-planet",
@@ -13039,7 +13375,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "0.0",
     "percent_change_7d": "-51.65",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-06-25"
   },
   {
     "id": "secretcoin",
@@ -13055,7 +13392,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": null,
     "percent_change_7d": "-5.91",
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2015-11-16"
   },
   {
     "id": "useless-ethereum-token",
@@ -13071,7 +13409,8 @@
     "percent_change_1h": "0.34",
     "percent_change_24h": "-1.98",
     "percent_change_7d": "70.12",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-07-05"
   },
   {
     "id": "eurocoin",
@@ -13087,7 +13426,8 @@
     "percent_change_1h": "2.63",
     "percent_change_24h": "0.66",
     "percent_change_7d": "-0.1",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2015-08-24"
   },
   {
     "id": "debitcoin",
@@ -13103,7 +13443,8 @@
     "percent_change_1h": "4.27",
     "percent_change_24h": "27.77",
     "percent_change_7d": "-10.5",
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2016-06-16"
   },
   {
     "id": "independent-money-system",
@@ -13119,7 +13460,8 @@
     "percent_change_1h": "4.8",
     "percent_change_24h": "6.09",
     "percent_change_7d": "-2.46",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-03-18"
   },
   {
     "id": "sixeleven",
@@ -13135,7 +13477,8 @@
     "percent_change_1h": "4.61",
     "percent_change_24h": "17.61",
     "percent_change_7d": "-7.58",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-05-09"
   },
   {
     "id": "icobid",
@@ -13151,7 +13494,8 @@
     "percent_change_1h": "4.9",
     "percent_change_24h": "-5.58",
     "percent_change_7d": "-7.98",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-01-20"
   },
   {
     "id": "tilecoin",
@@ -13167,7 +13511,8 @@
     "percent_change_1h": "0.0",
     "percent_change_24h": "16.93",
     "percent_change_7d": "-3.19",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2014-10-25"
   },
   {
     "id": "asiadigicoin",
@@ -13183,7 +13528,8 @@
     "percent_change_1h": "6.41",
     "percent_change_24h": "8.61",
     "percent_change_7d": "-25.42",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2016-02-22"
   },
   {
     "id": "mustangcoin",
@@ -13199,7 +13545,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-3.73",
     "percent_change_7d": "-26.84",
-    "last_updated": "1508462057"
+    "last_updated": "1508462057",
+    "date_added": "2016-09-21"
   },
   {
     "id": "vector",
@@ -13215,7 +13562,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "0.18",
     "percent_change_7d": "-23.64",
-    "last_updated": "1508459347"
+    "last_updated": "1508459347",
+    "date_added": "2015-09-04"
   },
   {
     "id": "uro",
@@ -13231,7 +13579,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-0.61",
     "percent_change_7d": "0.11",
-    "last_updated": "1508428443"
+    "last_updated": "1508428443",
+    "date_added": "2014-06-12"
   },
   {
     "id": "allion",
@@ -13247,7 +13596,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-19.31",
     "percent_change_7d": "16.92",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-02-24"
   },
   {
     "id": "flavorcoin",
@@ -13263,7 +13613,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-1.03",
     "percent_change_7d": "13.26",
-    "last_updated": "1508438048"
+    "last_updated": "1508438048",
+    "date_added": "2016-01-25"
   },
   {
     "id": "doubloon",
@@ -13279,7 +13630,8 @@
     "percent_change_1h": "5.92",
     "percent_change_24h": "61.18",
     "percent_change_7d": "10.35",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-02-09"
   },
   {
     "id": "px",
@@ -13295,7 +13647,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": null,
     "percent_change_7d": "-26.25",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-08-22"
   },
   {
     "id": "popularcoin",
@@ -13311,7 +13664,8 @@
     "percent_change_1h": "2.58",
     "percent_change_24h": "49.8",
     "percent_change_7d": "40.91",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-04-23"
   },
   {
     "id": "beavercoin",
@@ -13327,7 +13681,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "17.29",
     "percent_change_7d": "12.28",
-    "last_updated": "1508511558"
+    "last_updated": "1508511558",
+    "date_added": "2014-10-04"
   },
   {
     "id": "arbit",
@@ -13343,7 +13698,8 @@
     "percent_change_1h": "3.82",
     "percent_change_24h": "17.41",
     "percent_change_7d": "-38.36",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2015-05-21"
   },
   {
     "id": "eryllium",
@@ -13359,7 +13715,8 @@
     "percent_change_1h": "5.01",
     "percent_change_24h": "2.61",
     "percent_change_7d": "8.65",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-02-09"
   },
   {
     "id": "gbcgoldcoin",
@@ -13375,7 +13732,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "6.01",
     "percent_change_7d": "44.6",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2015-12-05"
   },
   {
     "id": "warp",
@@ -13391,7 +13749,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-19.23",
     "percent_change_7d": "-20.82",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2016-02-03"
   },
   {
     "id": "billarycoin",
@@ -13407,7 +13766,8 @@
     "percent_change_1h": "0.35",
     "percent_change_24h": "2.18",
     "percent_change_7d": "-19.0",
-    "last_updated": "1508508850"
+    "last_updated": "1508508850",
+    "date_added": "2016-05-20"
   },
   {
     "id": "mindcoin",
@@ -13423,7 +13783,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "17.4",
     "percent_change_7d": "12.01",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2016-01-04"
   },
   {
     "id": "photon",
@@ -13439,7 +13800,8 @@
     "percent_change_1h": "4.21",
     "percent_change_24h": "32.35",
     "percent_change_7d": "40.54",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-05-23"
   },
   {
     "id": "soilcoin",
@@ -13455,7 +13817,8 @@
     "percent_change_1h": "4.83",
     "percent_change_24h": "-2.73",
     "percent_change_7d": "-16.16",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2015-11-12"
   },
   {
     "id": "kittehcoin",
@@ -13471,7 +13834,8 @@
     "percent_change_1h": "3.27",
     "percent_change_24h": "-4.79",
     "percent_change_7d": "11.3",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2014-01-24"
   },
   {
     "id": "coinonat",
@@ -13487,7 +13851,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "-19.56",
     "percent_change_7d": "-16.96",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-04-17"
   },
   {
     "id": "agrolifecoin",
@@ -13503,7 +13868,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "21.33",
     "percent_change_7d": "-26.87",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-09-03"
   },
   {
     "id": "bitcoin-21",
@@ -13519,7 +13885,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "5.01",
     "percent_change_7d": "-41.94",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2016-05-05"
   },
   {
     "id": "genstake",
@@ -13535,7 +13902,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-3.57",
     "percent_change_7d": "6.17",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-06-10"
   },
   {
     "id": "artex-coin",
@@ -13551,7 +13919,8 @@
     "percent_change_1h": "2.96",
     "percent_change_24h": "-4.24",
     "percent_change_7d": "5.12",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2016-08-29"
   },
   {
     "id": "comet",
@@ -13567,7 +13936,8 @@
     "percent_change_1h": "4.51",
     "percent_change_24h": "12.67",
     "percent_change_7d": "-4.41",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-06-26"
   },
   {
     "id": "nevacoin",
@@ -13583,7 +13953,8 @@
     "percent_change_1h": "4.77",
     "percent_change_24h": "-6.57",
     "percent_change_7d": "-5.92",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2016-03-22"
   },
   {
     "id": "braincoin",
@@ -13599,7 +13970,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "4.78",
     "percent_change_7d": "-11.24",
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2016-04-21"
   },
   {
     "id": "allsafe",
@@ -13615,7 +13987,8 @@
     "percent_change_1h": "4.15",
     "percent_change_24h": "-4.23",
     "percent_change_7d": "-30.24",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-10-29"
   },
   {
     "id": "vaperscoin",
@@ -13631,7 +14004,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "108.84",
     "percent_change_7d": "151.6",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2016-08-12"
   },
   {
     "id": "jewels",
@@ -13647,7 +14021,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "7.96",
     "percent_change_7d": "2.41",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-09-09"
   },
   {
     "id": "bipcoin",
@@ -13663,7 +14038,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "-23.69",
     "percent_change_7d": "-40.74",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-11-03"
   },
   {
     "id": "hexx",
@@ -13679,7 +14055,8 @@
     "percent_change_1h": "4.64",
     "percent_change_24h": "-1.6",
     "percent_change_7d": "15.97",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2015-06-26"
   },
   {
     "id": "metal-music-coin",
@@ -13695,7 +14072,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "21.43",
     "percent_change_7d": "52.88",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-07-02"
   },
   {
     "id": "jobscoin",
@@ -13711,7 +14089,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "25.47",
     "percent_change_7d": "-9.86",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-10-09"
   },
   {
     "id": "vault-coin",
@@ -13727,7 +14106,8 @@
     "percent_change_1h": "4.84",
     "percent_change_24h": "-12.47",
     "percent_change_7d": "-27.55",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2016-12-21"
   },
   {
     "id": "blackstar",
@@ -13743,7 +14123,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "4.78",
     "percent_change_7d": "5.16",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2016-12-21"
   },
   {
     "id": "philosopher-stones",
@@ -13759,7 +14140,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "-14.72",
     "percent_change_7d": "-26.67",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-12-18"
   },
   {
     "id": "sooncoin",
@@ -13775,7 +14157,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "-0.49",
     "percent_change_7d": "-8.73",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2015-01-28"
   },
   {
     "id": "gamebet-coin",
@@ -13791,7 +14174,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-5.04",
     "percent_change_7d": "8.91",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-04-13"
   },
   {
     "id": "benjirolls",
@@ -13807,7 +14191,8 @@
     "percent_change_1h": "0.04",
     "percent_change_24h": "-6.46",
     "percent_change_7d": "-10.95",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2017-01-19"
   },
   {
     "id": "leacoin",
@@ -13823,7 +14208,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "7.95",
     "percent_change_7d": "8.63",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-04-19"
   },
   {
     "id": "zetamicron",
@@ -13839,7 +14225,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": null,
     "percent_change_7d": "5.15",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2016-11-18"
   },
   {
     "id": "bowscoin",
@@ -13855,7 +14242,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "11.33",
     "percent_change_7d": "51.16",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2015-07-13"
   },
   {
     "id": "plncoin",
@@ -13871,7 +14259,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-0.76",
     "percent_change_7d": "-6.93",
-    "last_updated": "1508438943"
+    "last_updated": "1508438943",
+    "date_added": "2014-04-15"
   },
   {
     "id": "zayedcoin",
@@ -13887,7 +14276,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "8.2",
     "percent_change_7d": "-20.08",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-09-17"
   },
   {
     "id": "luna-coin",
@@ -13903,7 +14293,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "30.7",
     "percent_change_7d": "10.39",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2017-01-17"
   },
   {
     "id": "cryptoescudo",
@@ -13919,7 +14310,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "-10.8",
     "percent_change_7d": "-15.87",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-04-03"
   },
   {
     "id": "dappster",
@@ -13935,7 +14327,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "0.02",
     "percent_change_7d": "50.57",
-    "last_updated": "1508456651"
+    "last_updated": "1508456651",
+    "date_added": "2016-07-13"
   },
   {
     "id": "kurrent",
@@ -13951,7 +14344,8 @@
     "percent_change_1h": "-4.16",
     "percent_change_24h": "-39.96",
     "percent_change_7d": "-35.71",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-12-01"
   },
   {
     "id": "coexistcoin",
@@ -13967,7 +14361,8 @@
     "percent_change_1h": "1.5",
     "percent_change_24h": "2.21",
     "percent_change_7d": "-91.53",
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2016-04-18"
   },
   {
     "id": "destiny",
@@ -13983,7 +14378,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "5.27",
     "percent_change_7d": "-30.36",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2016-02-26"
   },
   {
     "id": "bios-crypto",
@@ -13999,7 +14395,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "45.5",
     "percent_change_7d": "-17.34",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-07-27"
   },
   {
     "id": "tradecoin-v2",
@@ -14015,7 +14412,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "10.27",
     "percent_change_7d": "-23.1",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-07-11"
   },
   {
     "id": "bitcoal",
@@ -14031,7 +14429,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-19.59",
     "percent_change_7d": "-20.12",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-07-20"
   },
   {
     "id": "digital-rupees",
@@ -14047,7 +14446,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-47.62",
     "percent_change_7d": "-31.81",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-01-31"
   },
   {
     "id": "orlycoin",
@@ -14063,7 +14463,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": "-15.33",
-    "last_updated": "1508288351"
+    "last_updated": "1508288351",
+    "date_added": "2016-04-21"
   },
   {
     "id": "tagrcoin",
@@ -14079,7 +14480,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": null,
     "percent_change_7d": null,
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2015-07-16"
   },
   {
     "id": "vip-tokens",
@@ -14095,7 +14497,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "41.9",
     "percent_change_7d": "36.49",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-03-12"
   },
   {
     "id": "qibuck-asset",
@@ -14111,7 +14514,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "1.68",
     "percent_change_7d": null,
-    "last_updated": "1508479156"
+    "last_updated": "1508479156",
+    "date_added": "2017-05-20"
   },
   {
     "id": "hacker-gold",
@@ -14127,7 +14531,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "-45.8",
     "percent_change_7d": "-23.46",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2016-12-10"
   },
   {
     "id": "kingn-coin",
@@ -14143,7 +14548,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-7.32",
     "percent_change_7d": "61.94",
-    "last_updated": "1508511558"
+    "last_updated": "1508511558",
+    "date_added": "2017-06-24"
   },
   {
     "id": "ammo-rewards",
@@ -14159,7 +14565,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-10.21",
     "percent_change_7d": "-42.64",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2017-06-12"
   },
   {
     "id": "steps",
@@ -14175,7 +14582,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": "-37.81",
-    "last_updated": "1508255347"
+    "last_updated": "1508255347",
+    "date_added": "2015-09-19"
   },
   {
     "id": "blazecoin",
@@ -14191,7 +14599,8 @@
     "percent_change_1h": "4.17",
     "percent_change_24h": "5.69",
     "percent_change_7d": "13.45",
-    "last_updated": "1508511544"
+    "last_updated": "1508511544",
+    "date_added": "2014-06-28"
   },
   {
     "id": "iconic",
@@ -14207,7 +14616,8 @@
     "percent_change_1h": "0.95",
     "percent_change_24h": "29.16",
     "percent_change_7d": "-33.18",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-02-08"
   },
   {
     "id": "cthulhu-offerings",
@@ -14223,7 +14633,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "0.32",
     "percent_change_7d": "-8.3",
-    "last_updated": "1508461447"
+    "last_updated": "1508461447",
+    "date_added": "2015-07-25"
   },
   {
     "id": "ride-my-car",
@@ -14239,7 +14650,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "4.78",
     "percent_change_7d": "-15.87",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-02-22"
   },
   {
     "id": "macron",
@@ -14255,7 +14667,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-80.66",
     "percent_change_7d": "-28.17",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-04-25"
   },
   {
     "id": "milocoin",
@@ -14271,7 +14684,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "1.63",
     "percent_change_7d": "-39.51",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-03-18"
   },
   {
     "id": "dpay",
@@ -14287,7 +14701,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": null,
     "percent_change_7d": null,
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2016-10-16"
   },
   {
     "id": "ego",
@@ -14303,7 +14718,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": null,
-    "last_updated": "1508266452"
+    "last_updated": "1508266452",
+    "date_added": "2016-09-30"
   },
   {
     "id": "jio-token",
@@ -14319,7 +14735,8 @@
     "percent_change_1h": "7.6",
     "percent_change_24h": "-12.44",
     "percent_change_7d": "-27.64",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2016-12-30"
   },
   {
     "id": "anarchistsprime",
@@ -14335,7 +14752,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "-3.42",
     "percent_change_7d": "-23.09",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2015-07-13"
   },
   {
     "id": "crtcoin",
@@ -14351,7 +14769,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "4.76",
     "percent_change_7d": "5.16",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-05-11"
   },
   {
     "id": "gold-pressed-latinum",
@@ -14367,7 +14786,8 @@
     "percent_change_1h": "6.54",
     "percent_change_24h": "-11.01",
     "percent_change_7d": "-49.1",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-05-09"
   },
   {
     "id": "socialcoin-socc",
@@ -14383,7 +14803,8 @@
     "percent_change_1h": "2.93",
     "percent_change_24h": "8.76",
     "percent_change_7d": "-1.21",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-07-02"
   },
   {
     "id": "printerium",
@@ -14399,7 +14820,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-0.83",
     "percent_change_7d": "-37.82",
-    "last_updated": "1508502253"
+    "last_updated": "1508502253",
+    "date_added": "2017-01-31"
   },
   {
     "id": "songcoin",
@@ -14415,7 +14837,8 @@
     "percent_change_1h": "3.04",
     "percent_change_24h": "-2.36",
     "percent_change_7d": "-14.47",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-03-23"
   },
   {
     "id": "rsgpcoin",
@@ -14431,7 +14854,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "20.56",
     "percent_change_7d": "43.73",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-07-19"
   },
   {
     "id": "cabbage",
@@ -14447,7 +14871,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "3.79",
     "percent_change_7d": "20.98",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-04-04"
   },
   {
     "id": "impulsecoin",
@@ -14463,7 +14888,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "4.53",
     "percent_change_7d": null,
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2016-10-29"
   },
   {
     "id": "fuzzballs",
@@ -14479,7 +14905,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "1.49",
     "percent_change_7d": "16.35",
-    "last_updated": "1508495050"
+    "last_updated": "1508495050",
+    "date_added": "2016-05-01"
   },
   {
     "id": "magnum",
@@ -14495,7 +14922,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "55.37",
     "percent_change_7d": "55.92",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-02-07"
   },
   {
     "id": "impact",
@@ -14511,7 +14939,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "56.65",
     "percent_change_7d": "-39.83",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-04-01"
   },
   {
     "id": "cashcoin",
@@ -14527,7 +14956,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-0.83",
     "percent_change_7d": "-8.13",
-    "last_updated": "1508503142"
+    "last_updated": "1508503142",
+    "date_added": "2014-02-27"
   },
   {
     "id": "posex",
@@ -14543,7 +14973,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "4.78",
     "percent_change_7d": "-4.81",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-04-04"
   },
   {
     "id": "beatcoin",
@@ -14559,7 +14990,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "2.42",
     "percent_change_7d": "-24.65",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-09-21"
   },
   {
     "id": "torcoin-tor",
@@ -14575,7 +15007,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-0.2",
     "percent_change_7d": "-77.48",
-    "last_updated": "1508444956"
+    "last_updated": "1508444956",
+    "date_added": "2017-04-17"
   },
   {
     "id": "wexcoin",
@@ -14591,7 +15024,8 @@
     "percent_change_1h": "4.81",
     "percent_change_24h": "-8.42",
     "percent_change_7d": "-23.1",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2016-09-24"
   },
   {
     "id": "high-voltage",
@@ -14607,7 +15041,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": "-5.68",
-    "last_updated": "1508382849"
+    "last_updated": "1508382849",
+    "date_added": "2016-06-08"
   },
   {
     "id": "ibank",
@@ -14623,7 +15058,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "0.1",
     "percent_change_7d": "11.53",
-    "last_updated": "1508456963"
+    "last_updated": "1508456963",
+    "date_added": "2017-01-23"
   },
   {
     "id": "antilitecoin",
@@ -14639,7 +15075,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "15.29",
     "percent_change_7d": "-3.09",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-03-18"
   },
   {
     "id": "dollar-online",
@@ -14655,7 +15092,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "35.2",
     "percent_change_7d": "17.58",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-12-21"
   },
   {
     "id": "biobar",
@@ -14671,7 +15109,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-0.55",
     "percent_change_7d": "-3.96",
-    "last_updated": "1508478854"
+    "last_updated": "1508478854",
+    "date_added": "2017-03-20"
   },
   {
     "id": "letitride",
@@ -14687,7 +15126,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-8.34",
     "percent_change_7d": "-20.27",
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2016-07-13"
   },
   {
     "id": "zonecoin",
@@ -14703,7 +15143,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": "-5.47",
-    "last_updated": "1508075060"
+    "last_updated": "1508075060",
+    "date_added": "2016-08-15"
   },
   {
     "id": "concoin",
@@ -14719,7 +15160,8 @@
     "percent_change_1h": "37.51",
     "percent_change_24h": "-5.27",
     "percent_change_7d": "-18.48",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-04-18"
   },
   {
     "id": "save-and-gain",
@@ -14735,7 +15177,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": null,
     "percent_change_7d": "-5.61",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2015-10-12"
   },
   {
     "id": "bnrtxcoin",
@@ -14751,7 +15194,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "-5.33",
     "percent_change_7d": "10.02",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-07-02"
   },
   {
     "id": "xonecoin",
@@ -14767,7 +15211,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-0.63",
     "percent_change_7d": "-16.43",
-    "last_updated": "1508479151"
+    "last_updated": "1508479151",
+    "date_added": "2016-09-03"
   },
   {
     "id": "speedcash",
@@ -14783,7 +15228,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-15.1",
     "percent_change_7d": "-11.32",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-04-27"
   },
   {
     "id": "litecred",
@@ -14799,7 +15245,8 @@
     "percent_change_1h": "-22.25",
     "percent_change_24h": "-53.75",
     "percent_change_7d": "-58.91",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2016-01-21"
   },
   {
     "id": "slevin",
@@ -14815,7 +15262,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "4.76",
     "percent_change_7d": "-23.42",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-07-05"
   },
   {
     "id": "osmiumcoin",
@@ -14831,7 +15279,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "-7.75",
     "percent_change_7d": "-15.73",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2015-10-19"
   },
   {
     "id": "geertcoin",
@@ -14847,7 +15296,8 @@
     "percent_change_1h": "6.5",
     "percent_change_24h": "-3.78",
     "percent_change_7d": "19.79",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-03-14"
   },
   {
     "id": "sydpak",
@@ -14863,7 +15313,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "0.18",
     "percent_change_7d": "0.43",
-    "last_updated": "1508459348"
+    "last_updated": "1508459348",
+    "date_added": "2015-08-24"
   },
   {
     "id": "argus",
@@ -14879,7 +15330,8 @@
     "percent_change_1h": "4.44",
     "percent_change_24h": "0.2",
     "percent_change_7d": "9.51",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-02-26"
   },
   {
     "id": "elysium",
@@ -14895,7 +15347,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "54.75",
     "percent_change_7d": "44.89",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-02-11"
   },
   {
     "id": "rawcoin2",
@@ -14911,7 +15364,8 @@
     "percent_change_1h": "4.59",
     "percent_change_24h": "-1.82",
     "percent_change_7d": "-14.69",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2016-12-01"
   },
   {
     "id": "litebitcoin",
@@ -14927,7 +15381,8 @@
     "percent_change_1h": "10.37",
     "percent_change_24h": "0.71",
     "percent_change_7d": "-8.48",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-07-20"
   },
   {
     "id": "bitvolt",
@@ -14943,7 +15398,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-29.83",
     "percent_change_7d": "-9.44",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-04-30"
   },
   {
     "id": "ccminer",
@@ -14959,7 +15415,8 @@
     "percent_change_1h": "3.42",
     "percent_change_24h": "-3.11",
     "percent_change_7d": "-30.16",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-02-10"
   },
   {
     "id": "bbqcoin",
@@ -14975,7 +15432,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "21.07",
     "percent_change_7d": "110.32",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-05-08"
   },
   {
     "id": "selfiecoin",
@@ -14991,7 +15449,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": "-1.82",
-    "last_updated": "1508366948"
+    "last_updated": "1508366948",
+    "date_added": "2015-03-23"
   },
   {
     "id": "revenu",
@@ -15007,7 +15466,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-0.64",
     "percent_change_7d": "-47.65",
-    "last_updated": "1508499549"
+    "last_updated": "1508499549",
+    "date_added": "2016-03-22"
   },
   {
     "id": "p7coin",
@@ -15023,7 +15483,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": "-30.54",
-    "last_updated": "1508327346"
+    "last_updated": "1508327346",
+    "date_added": "2015-04-17"
   },
   {
     "id": "mantracoin",
@@ -15039,7 +15500,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": "28.1",
-    "last_updated": "1508297059"
+    "last_updated": "1508297059",
+    "date_added": "2017-07-12"
   },
   {
     "id": "sojourn",
@@ -15055,7 +15517,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-11.54",
     "percent_change_7d": "11.56",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-14"
   },
   {
     "id": "environ",
@@ -15071,7 +15534,8 @@
     "percent_change_1h": "5.06",
     "percent_change_24h": "363.57",
     "percent_change_7d": "563.42",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-05-07"
   },
   {
     "id": "burstocean",
@@ -15087,7 +15551,8 @@
     "percent_change_1h": "3.36",
     "percent_change_24h": "3.39",
     "percent_change_7d": "-15.71",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-03-15"
   },
   {
     "id": "nodecoin",
@@ -15103,7 +15568,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "-26.97",
     "percent_change_7d": "-19.88",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2016-12-13"
   },
   {
     "id": "enigma",
@@ -15119,7 +15585,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "8.78",
     "percent_change_7d": "-30.92",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-04-13"
   },
   {
     "id": "lex4all",
@@ -15135,7 +15602,8 @@
     "percent_change_1h": "3.36",
     "percent_change_24h": "74.53",
     "percent_change_7d": "84.58",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-03-15"
   },
   {
     "id": "powercoin",
@@ -15151,7 +15619,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "4.78",
     "percent_change_7d": "5.16",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-06-04"
   },
   {
     "id": "ulatech",
@@ -15167,7 +15636,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "164.33",
     "percent_change_7d": "46.85",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-08-27"
   },
   {
     "id": "californium",
@@ -15183,7 +15653,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "-2.29",
     "percent_change_7d": "-29.03",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-04-21"
   },
   {
     "id": "pizzacoin",
@@ -15199,7 +15670,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "-29.11",
     "percent_change_7d": "-29.9",
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2016-08-22"
   },
   {
     "id": "future-digital-currency",
@@ -15215,7 +15687,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "4.78",
     "percent_change_7d": "39.56",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2017-01-04"
   },
   {
     "id": "mikethemug",
@@ -15231,7 +15704,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-2.42",
     "percent_change_7d": "-1.0",
-    "last_updated": "1508425456"
+    "last_updated": "1508425456",
+    "date_added": "2017-02-11"
   },
   {
     "id": "abncoin",
@@ -15247,7 +15721,8 @@
     "percent_change_1h": "7.11",
     "percent_change_24h": "7.0",
     "percent_change_7d": "-13.04",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-01-19"
   },
   {
     "id": "digital-credits",
@@ -15263,7 +15738,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "4.76",
     "percent_change_7d": "13.5",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2015-11-16"
   },
   {
     "id": "caliphcoin",
@@ -15279,7 +15755,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "4.76",
     "percent_change_7d": "-31.28",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2016-10-06"
   },
   {
     "id": "fargocoin",
@@ -15295,7 +15772,8 @@
     "percent_change_1h": "0.14",
     "percent_change_24h": "-3.32",
     "percent_change_7d": "5.33",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2017-01-04"
   },
   {
     "id": "flik",
@@ -15311,7 +15789,8 @@
     "percent_change_1h": "-11.75",
     "percent_change_24h": "-10.42",
     "percent_change_7d": "50.16",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-10-07"
   },
   {
     "id": "infchain",
@@ -15327,7 +15806,8 @@
     "percent_change_1h": "4.21",
     "percent_change_24h": "2.24",
     "percent_change_7d": "-0.01",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-12"
   },
   {
     "id": "tezos",
@@ -15343,7 +15823,8 @@
     "percent_change_1h": "2.1",
     "percent_change_24h": "3.99",
     "percent_change_7d": "-22.76",
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-10-02"
   },
   {
     "id": "aureus",
@@ -15359,7 +15840,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-35.19",
     "percent_change_7d": "31.23",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-27"
   },
   {
     "id": "zeusshield",
@@ -15375,7 +15857,8 @@
     "percent_change_1h": "-1.75",
     "percent_change_24h": "-0.71",
     "percent_change_7d": "41.21",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-10-13"
   },
   {
     "id": "kolion",
@@ -15391,7 +15874,8 @@
     "percent_change_1h": "3.16",
     "percent_change_24h": "3.39",
     "percent_change_7d": "-1.51",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-09-29"
   },
   {
     "id": "yoyow",
@@ -15407,7 +15891,8 @@
     "percent_change_1h": "4.86",
     "percent_change_24h": "9.08",
     "percent_change_7d": "-7.98",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-19"
   },
   {
     "id": "dutch-coin",
@@ -15423,7 +15908,8 @@
     "percent_change_1h": "1.14",
     "percent_change_24h": "132.26",
     "percent_change_7d": null,
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-10-19"
   },
   {
     "id": "achain",
@@ -15439,7 +15925,8 @@
     "percent_change_1h": "1.21",
     "percent_change_24h": "2.91",
     "percent_change_7d": "23.28",
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-08-27"
   },
   {
     "id": "bitsoar",
@@ -15455,7 +15942,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "30.32",
     "percent_change_7d": null,
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-10-17"
   },
   {
     "id": "senderon",
@@ -15471,7 +15959,8 @@
     "percent_change_1h": "13.65",
     "percent_change_24h": "29.77",
     "percent_change_7d": "114.07",
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-10-12"
   },
   {
     "id": "infinity-economics",
@@ -15487,7 +15976,8 @@
     "percent_change_1h": "5.04",
     "percent_change_24h": "-3.57",
     "percent_change_7d": "-13.6",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-10-02"
   },
   {
     "id": "indorse-token",
@@ -15503,7 +15993,8 @@
     "percent_change_1h": "1.79",
     "percent_change_24h": "-12.89",
     "percent_change_7d": "-35.04",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-09-19"
   },
   {
     "id": "msd",
@@ -15519,7 +16010,8 @@
     "percent_change_1h": "4.33",
     "percent_change_24h": "5.04",
     "percent_change_7d": "-45.8",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-10-01"
   },
   {
     "id": "swisscoin",
@@ -15535,7 +16027,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "24.5",
     "percent_change_7d": null,
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-10-17"
   },
   {
     "id": "change",
@@ -15551,7 +16044,8 @@
     "percent_change_1h": "-0.41",
     "percent_change_24h": "-14.54",
     "percent_change_7d": null,
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-10-17"
   },
   {
     "id": "cobinhood",
@@ -15567,7 +16061,8 @@
     "percent_change_1h": "1.4",
     "percent_change_24h": "3.81",
     "percent_change_7d": "-11.97",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-10-01"
   },
   {
     "id": "ug-token",
@@ -15583,7 +16078,8 @@
     "percent_change_1h": "-1.5",
     "percent_change_24h": "-4.19",
     "percent_change_7d": "3.54",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-08-30"
   },
   {
     "id": "sphre-air",
@@ -15599,7 +16095,8 @@
     "percent_change_1h": "1.63",
     "percent_change_24h": "2.4",
     "percent_change_7d": "-12.56",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-07-11"
   },
   {
     "id": "golos-gold",
@@ -15615,7 +16112,8 @@
     "percent_change_1h": "0.06",
     "percent_change_24h": "0.69",
     "percent_change_7d": "-41.61",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-02-13"
   },
   {
     "id": "tracto",
@@ -15631,7 +16129,8 @@
     "percent_change_1h": "2.7",
     "percent_change_24h": "10.06",
     "percent_change_7d": null,
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-10-19"
   },
   {
     "id": "aion",
@@ -15647,7 +16146,8 @@
     "percent_change_1h": "1.68",
     "percent_change_24h": "-13.34",
     "percent_change_7d": null,
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-10-18"
   },
   {
     "id": "piplcoin",
@@ -15663,7 +16163,8 @@
     "percent_change_1h": "8.77",
     "percent_change_24h": "85.18",
     "percent_change_7d": null,
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-10-16"
   },
   {
     "id": "storjcoin-x",
@@ -15679,7 +16180,8 @@
     "percent_change_1h": "2.29",
     "percent_change_24h": "1.14",
     "percent_change_7d": "-17.74",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2014-08-20"
   },
   {
     "id": "akuya-coin",
@@ -15695,7 +16197,8 @@
     "percent_change_1h": "6.4",
     "percent_change_24h": "-13.51",
     "percent_change_7d": null,
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-10-16"
   },
   {
     "id": "gulfcoin",
@@ -15711,7 +16214,8 @@
     "percent_change_1h": "4.67",
     "percent_change_24h": "-15.15",
     "percent_change_7d": "-14.59",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-06-28"
   },
   {
     "id": "bitcloud",
@@ -15727,7 +16231,8 @@
     "percent_change_1h": "11.0",
     "percent_change_24h": "2.4",
     "percent_change_7d": "25.32",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-09-12"
   },
   {
     "id": "sigmacoin",
@@ -15743,7 +16248,8 @@
     "percent_change_1h": "0.44",
     "percent_change_24h": "24.09",
     "percent_change_7d": "34.25",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-27"
   },
   {
     "id": "lltoken",
@@ -15759,7 +16265,8 @@
     "percent_change_1h": "1.76",
     "percent_change_24h": "-0.42",
     "percent_change_7d": null,
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-08-30"
   },
   {
     "id": "everus",
@@ -15775,7 +16282,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "11.03",
     "percent_change_7d": null,
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-10-19"
   },
   {
     "id": "lazaruscoin",
@@ -15791,7 +16299,8 @@
     "percent_change_1h": "6.08",
     "percent_change_24h": "7.53",
     "percent_change_7d": "49.9",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2016-09-24"
   },
   {
     "id": "ormeus-coin",
@@ -15807,7 +16316,8 @@
     "percent_change_1h": "4.93",
     "percent_change_24h": "2.31",
     "percent_change_7d": "-3.08",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-09-29"
   },
   {
     "id": "clubcoin",
@@ -15823,7 +16333,8 @@
     "percent_change_1h": "4.24",
     "percent_change_24h": "4.17",
     "percent_change_7d": "-4.24",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2015-12-21"
   },
   {
     "id": "techshares",
@@ -15839,7 +16350,8 @@
     "percent_change_1h": "4.91",
     "percent_change_24h": "6.26",
     "percent_change_7d": "-4.64",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-08-26"
   },
   {
     "id": "crystal-clear",
@@ -15855,7 +16367,8 @@
     "percent_change_1h": "13.35",
     "percent_change_24h": "-3.57",
     "percent_change_7d": "-44.95",
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-10-09"
   },
   {
     "id": "go-coin",
@@ -15871,7 +16384,8 @@
     "percent_change_1h": "-3.08",
     "percent_change_24h": "1.35",
     "percent_change_7d": null,
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-10-18"
   },
   {
     "id": "flash",
@@ -15887,7 +16401,8 @@
     "percent_change_1h": "-2.63",
     "percent_change_24h": "-16.67",
     "percent_change_7d": "-22.94",
-    "last_updated": "1508511558"
+    "last_updated": "1508511558",
+    "date_added": "2017-06-26"
   },
   {
     "id": "rchain",
@@ -15903,7 +16418,8 @@
     "percent_change_1h": "0.42",
     "percent_change_24h": "-21.45",
     "percent_change_7d": "-21.82",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-10-06"
   },
   {
     "id": "domraider",
@@ -15919,7 +16435,8 @@
     "percent_change_1h": "8.51",
     "percent_change_24h": null,
     "percent_change_7d": null,
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-10-19"
   },
   {
     "id": "suretly",
@@ -15935,7 +16452,8 @@
     "percent_change_1h": "0.4",
     "percent_change_24h": "10.94",
     "percent_change_7d": "7.11",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-30"
   },
   {
     "id": "hodl-bucks",
@@ -15951,7 +16469,8 @@
     "percent_change_1h": "4.07",
     "percent_change_24h": "86.21",
     "percent_change_7d": "103.91",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-09-29"
   },
   {
     "id": "namocoin",
@@ -15967,7 +16486,8 @@
     "percent_change_1h": "-12.85",
     "percent_change_24h": "-15.37",
     "percent_change_7d": "-16.04",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-27"
   },
   {
     "id": "macro1",
@@ -15983,7 +16503,8 @@
     "percent_change_1h": "12.98",
     "percent_change_24h": "-0.5",
     "percent_change_7d": "-24.44",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-10-04"
   },
   {
     "id": "mind-gene",
@@ -15999,7 +16520,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "1.92",
     "percent_change_7d": "14.93",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-09-30"
   },
   {
     "id": "sand-coin",
@@ -16015,7 +16537,8 @@
     "percent_change_1h": "0.4",
     "percent_change_24h": "-8.49",
     "percent_change_7d": "-17.54",
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-10-08"
   },
   {
     "id": "ergo",
@@ -16031,7 +16554,8 @@
     "percent_change_1h": "2.4",
     "percent_change_24h": "8.38",
     "percent_change_7d": "10.45",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-06-29"
   },
   {
     "id": "dfscoin",
@@ -16047,7 +16571,8 @@
     "percent_change_1h": "1.09",
     "percent_change_24h": "0.32",
     "percent_change_7d": "12.81",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-09-23"
   },
   {
     "id": "buzzcoin",
@@ -16063,7 +16588,8 @@
     "percent_change_1h": "-14.41",
     "percent_change_24h": "-4.6",
     "percent_change_7d": "-22.13",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-09-13"
   },
   {
     "id": "deuscoin",
@@ -16079,7 +16605,8 @@
     "percent_change_1h": "4.2",
     "percent_change_24h": "3.32",
     "percent_change_7d": "-35.35",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-04-20"
   },
   {
     "id": "blockchain-index",
@@ -16095,7 +16622,8 @@
     "percent_change_1h": "4.39",
     "percent_change_24h": "7.47",
     "percent_change_7d": "-1.91",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-09-02"
   },
   {
     "id": "btcgold",
@@ -16111,7 +16639,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "18.31",
     "percent_change_7d": "-55.87",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2017-04-30"
   },
   {
     "id": "corion",
@@ -16127,7 +16656,8 @@
     "percent_change_1h": "5.32",
     "percent_change_24h": "0.25",
     "percent_change_7d": "25.43",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-10-13"
   },
   {
     "id": "xtd-coin",
@@ -16143,7 +16673,8 @@
     "percent_change_1h": "109.77",
     "percent_change_24h": "42.47",
     "percent_change_7d": "64.77",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-23"
   },
   {
     "id": "brat",
@@ -16159,7 +16690,8 @@
     "percent_change_1h": "4.05",
     "percent_change_24h": "44.11",
     "percent_change_7d": "60.55",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-08-27"
   },
   {
     "id": "wa-space",
@@ -16175,7 +16707,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "-8.15",
     "percent_change_7d": "11.44",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-11-10"
   },
   {
     "id": "bastonet",
@@ -16191,7 +16724,8 @@
     "percent_change_1h": "-9.06",
     "percent_change_24h": "12.78",
     "percent_change_7d": "-91.35",
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-10-13"
   },
   {
     "id": "kexcoin",
@@ -16207,7 +16741,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "4.76",
     "percent_change_7d": "6.29",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-09-22"
   },
   {
     "id": "terranova",
@@ -16223,7 +16758,8 @@
     "percent_change_1h": "4.93",
     "percent_change_24h": "0.51",
     "percent_change_7d": "-58.3",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-07-15"
   },
   {
     "id": "chronologic",
@@ -16239,7 +16775,8 @@
     "percent_change_1h": "0.4",
     "percent_change_24h": "0.85",
     "percent_change_7d": "-8.79",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-09-25"
   },
   {
     "id": "india-coin",
@@ -16255,7 +16792,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "18.41",
     "percent_change_7d": "-5.88",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-09-29"
   },
   {
     "id": "bitcoin-unlimited",
@@ -16271,7 +16809,8 @@
     "percent_change_1h": "-0.0",
     "percent_change_24h": "-8.51",
     "percent_change_7d": "-41.62",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-03-29"
   },
   {
     "id": "gokucoin",
@@ -16287,7 +16826,8 @@
     "percent_change_1h": "-1.55",
     "percent_change_24h": "-2.18",
     "percent_change_7d": "53.45",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-09-27"
   },
   {
     "id": "adcoin",
@@ -16303,7 +16843,8 @@
     "percent_change_1h": "5.77",
     "percent_change_24h": "7.5",
     "percent_change_7d": "-26.4",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-25"
   },
   {
     "id": "swapcoin",
@@ -16319,7 +16860,8 @@
     "percent_change_1h": "0.4",
     "percent_change_24h": null,
     "percent_change_7d": null,
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-10-19"
   },
   {
     "id": "minex",
@@ -16335,7 +16877,8 @@
     "percent_change_1h": "-21.92",
     "percent_change_24h": "20.2",
     "percent_change_7d": "-9.67",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-07"
   },
   {
     "id": "cryptonex",
@@ -16351,7 +16894,8 @@
     "percent_change_1h": "5.04",
     "percent_change_24h": "4.97",
     "percent_change_7d": "-12.42",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-10-07"
   },
   {
     "id": "pirate-blocks",
@@ -16367,7 +16911,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "-17.56",
     "percent_change_7d": "-57.12",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-06-26"
   },
   {
     "id": "first-bitcoin-capital",
@@ -16383,7 +16928,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "54.92",
     "percent_change_7d": "-53.63",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-09"
   },
   {
     "id": "ox-fina",
@@ -16399,7 +16945,8 @@
     "percent_change_1h": "-11.04",
     "percent_change_24h": "8.93",
     "percent_change_7d": "-25.19",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-24"
   },
   {
     "id": "hellogold",
@@ -16415,7 +16962,8 @@
     "percent_change_1h": "-0.52",
     "percent_change_24h": "-7.49",
     "percent_change_7d": "-53.5",
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-10-12"
   },
   {
     "id": "wild-crypto",
@@ -16431,7 +16979,8 @@
     "percent_change_1h": "0.83",
     "percent_change_24h": "-7.89",
     "percent_change_7d": "-23.28",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-10-08"
   },
   {
     "id": "tyrocoin",
@@ -16447,7 +16996,8 @@
     "percent_change_1h": "27.14",
     "percent_change_24h": "27.01",
     "percent_change_7d": "-0.47",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2017-04-27"
   },
   {
     "id": "t-coin",
@@ -16463,7 +17013,8 @@
     "percent_change_1h": "0.61",
     "percent_change_24h": "-15.48",
     "percent_change_7d": "50.85",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2016-12-21"
   },
   {
     "id": "wi-coin",
@@ -16479,7 +17030,8 @@
     "percent_change_1h": "3.19",
     "percent_change_24h": "-3.76",
     "percent_change_7d": "-6.23",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-09-23"
   },
   {
     "id": "atmcoin",
@@ -16495,7 +17047,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "4.76",
     "percent_change_7d": "5.15",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-24"
   },
   {
     "id": "alphabitcoinfund",
@@ -16511,7 +17064,8 @@
     "percent_change_1h": "4.81",
     "percent_change_24h": "63.64",
     "percent_change_7d": "16.61",
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2016-05-18"
   },
   {
     "id": "amsterdamcoin",
@@ -16527,7 +17081,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "-23.55",
     "percent_change_7d": "19.41",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2015-08-21"
   },
   {
     "id": "zengold",
@@ -16543,7 +17098,8 @@
     "percent_change_1h": "3.95",
     "percent_change_24h": "35.51",
     "percent_change_7d": "30.52",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2017-05-30"
   },
   {
     "id": "teslacoilcoin",
@@ -16559,7 +17115,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "4.14",
     "percent_change_7d": null,
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2016-05-24"
   },
   {
     "id": "president-johnson",
@@ -16575,7 +17132,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "-9.04",
     "percent_change_7d": null,
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-08-19"
   },
   {
     "id": "coupecoin",
@@ -16591,7 +17149,8 @@
     "percent_change_1h": "1.52",
     "percent_change_24h": "-20.43",
     "percent_change_7d": "-62.13",
-    "last_updated": "1508511558"
+    "last_updated": "1508511558",
+    "date_added": "2017-06-24"
   },
   {
     "id": "president-trump",
@@ -16607,7 +17166,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-3.91",
     "percent_change_7d": "3.42",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-08-15"
   },
   {
     "id": "internet-of-things",
@@ -16623,7 +17183,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": null,
     "percent_change_7d": null,
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-04-17"
   },
   {
     "id": "pabyosi-coin-special",
@@ -16639,7 +17200,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "-1.92",
     "percent_change_7d": "15.84",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2016-12-21"
   },
   {
     "id": "bankcoin",
@@ -16655,7 +17217,8 @@
     "percent_change_1h": "1.5",
     "percent_change_24h": "2.95",
     "percent_change_7d": "515.22",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-03-30"
   },
   {
     "id": "ethereum-movie-venture",
@@ -16671,7 +17234,8 @@
     "percent_change_1h": "0.4",
     "percent_change_24h": "198.42",
     "percent_change_7d": "1089.28",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-04-17"
   },
   {
     "id": "regacoin",
@@ -16687,7 +17251,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "15.79",
     "percent_change_7d": "-29.85",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-11-18"
   },
   {
     "id": "masternodecoin",
@@ -16703,7 +17268,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "14.35",
     "percent_change_7d": "10.03",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-09-06"
   },
   {
     "id": "zilbercoin",
@@ -16719,7 +17285,8 @@
     "percent_change_1h": "7.54",
     "percent_change_24h": "3.26",
     "percent_change_7d": "2.56",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2017-02-08"
   },
   {
     "id": "stex",
@@ -16735,7 +17302,8 @@
     "percent_change_1h": "3.4",
     "percent_change_24h": "2.67",
     "percent_change_7d": "25.41",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2017-06-06"
   },
   {
     "id": "hyper",
@@ -16751,7 +17319,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "16.83",
     "percent_change_7d": "18.79",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-05-31"
   },
   {
     "id": "encryptotel-eth",
@@ -16767,7 +17336,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "19.23",
     "percent_change_7d": "-13.04",
-    "last_updated": "1508511564"
+    "last_updated": "1508511564",
+    "date_added": "2017-10-06"
   },
   {
     "id": "animecoin",
@@ -16783,7 +17353,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "5.53",
     "percent_change_7d": "30.35",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-02-28"
   },
   {
     "id": "iquant",
@@ -16799,7 +17370,8 @@
     "percent_change_1h": "3.68",
     "percent_change_24h": "11.85",
     "percent_change_7d": "-33.38",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-09-19"
   },
   {
     "id": "geysercoin",
@@ -16815,7 +17387,8 @@
     "percent_change_1h": "8.31",
     "percent_change_24h": "23.61",
     "percent_change_7d": "-32.2",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-07-27"
   },
   {
     "id": "eltc",
@@ -16831,7 +17404,8 @@
     "percent_change_1h": "0.44",
     "percent_change_24h": "-49.03",
     "percent_change_7d": "-13.6",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-10-10"
   },
   {
     "id": "cheapcoin",
@@ -16847,7 +17421,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "-51.66",
     "percent_change_7d": "75.84",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2017-06-19"
   },
   {
     "id": "marxcoin",
@@ -16863,7 +17438,8 @@
     "percent_change_1h": "9.21",
     "percent_change_24h": "-8.31",
     "percent_change_7d": "-16.29",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-03-07"
   },
   {
     "id": "ganjacoin",
@@ -16879,7 +17455,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "56.16",
     "percent_change_7d": "188.13",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2014-10-24"
   },
   {
     "id": "protean",
@@ -16895,7 +17472,8 @@
     "percent_change_1h": "73.8",
     "percent_change_24h": "288.38",
     "percent_change_7d": "2.61",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-08-24"
   },
   {
     "id": "topcoin",
@@ -16911,7 +17489,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "4.78",
     "percent_change_7d": "-11.75",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-02-17"
   },
   {
     "id": "paccoin",
@@ -16927,7 +17506,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "2.45",
     "percent_change_7d": "24.23",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2015-11-02"
   },
   {
     "id": "universalroyalcoin",
@@ -16943,7 +17523,8 @@
     "percent_change_1h": "45.91",
     "percent_change_24h": "0.61",
     "percent_change_7d": "-7.98",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-07-05"
   },
   {
     "id": "avoncoin",
@@ -16959,7 +17540,8 @@
     "percent_change_1h": "39.85",
     "percent_change_24h": "7.33",
     "percent_change_7d": "20.18",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-02-09"
   },
   {
     "id": "cyder",
@@ -16975,7 +17557,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "4.73",
     "percent_change_7d": "-11.02",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-09-13"
   },
   {
     "id": "landcoin",
@@ -16991,7 +17574,8 @@
     "percent_change_1h": "4.54",
     "percent_change_24h": "-13.88",
     "percent_change_7d": "-12.32",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-01-19"
   },
   {
     "id": "voyacoin",
@@ -17007,7 +17591,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "15.42",
     "percent_change_7d": "-17.1",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2015-02-28"
   },
   {
     "id": "stronghands",
@@ -17023,7 +17608,8 @@
     "percent_change_1h": "12.04",
     "percent_change_24h": "-0.75",
     "percent_change_7d": "-4.94",
-    "last_updated": "1508511547"
+    "last_updated": "1508511547",
+    "date_added": "2015-10-30"
   },
   {
     "id": "granitecoin",
@@ -17039,7 +17625,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "6.94",
     "percent_change_7d": "-8.73",
-    "last_updated": "1508511544"
+    "last_updated": "1508511544",
+    "date_added": "2014-06-12"
   },
   {
     "id": "sakuracoin",
@@ -17055,7 +17642,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "-3.48",
     "percent_change_7d": "-21.4",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-10-14"
   },
   {
     "id": "bubble",
@@ -17071,7 +17659,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-5.75",
     "percent_change_7d": "-26.79",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-05-07"
   },
   {
     "id": "the-vegan-initiative",
@@ -17087,7 +17676,8 @@
     "percent_change_1h": "4.91",
     "percent_change_24h": "53.4",
     "percent_change_7d": "153.06",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-04-17"
   },
   {
     "id": "leviarcoin",
@@ -17103,7 +17693,8 @@
     "percent_change_1h": "-3.25",
     "percent_change_24h": "16.67",
     "percent_change_7d": "4.77",
-    "last_updated": "1508511558"
+    "last_updated": "1508511558",
+    "date_added": "2017-06-24"
   },
   {
     "id": "huncoin",
@@ -17119,7 +17710,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-28.56",
     "percent_change_7d": "-64.11",
-    "last_updated": "1508511558"
+    "last_updated": "1508511558",
+    "date_added": "2017-06-24"
   },
   {
     "id": "rabbitcoin",
@@ -17135,7 +17727,8 @@
     "percent_change_1h": "2.94",
     "percent_change_24h": "-73.55",
     "percent_change_7d": "-90.71",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2014-08-30"
   },
   {
     "id": "snakeeyes",
@@ -17151,7 +17744,8 @@
     "percent_change_1h": "3.36",
     "percent_change_24h": "18.33",
     "percent_change_7d": "19.33",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-05-09"
   },
   {
     "id": "quotient",
@@ -17167,7 +17761,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "-18.86",
     "percent_change_7d": "-16.25",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2014-11-23"
   },
   {
     "id": "batcoin",
@@ -17183,7 +17778,8 @@
     "percent_change_1h": "5.27",
     "percent_change_24h": "5.8",
     "percent_change_7d": "31.58",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-03-03"
   },
   {
     "id": "primulon",
@@ -17199,7 +17795,8 @@
     "percent_change_1h": "-1.9",
     "percent_change_24h": "18.98",
     "percent_change_7d": "-18.66",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-07-21"
   },
   {
     "id": "avatarcoin",
@@ -17215,7 +17812,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "6.65",
     "percent_change_7d": "-7.94",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2016-01-05"
   },
   {
     "id": "rublebit",
@@ -17231,7 +17829,8 @@
     "percent_change_1h": "-13.8",
     "percent_change_24h": "-38.13",
     "percent_change_7d": "-12.37",
-    "last_updated": "1508511558"
+    "last_updated": "1508511558",
+    "date_added": "2015-11-23"
   },
   {
     "id": "peoplecoin",
@@ -17247,7 +17846,8 @@
     "percent_change_1h": "-5.6",
     "percent_change_24h": "-21.43",
     "percent_change_7d": "-13.96",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-07-27"
   },
   {
     "id": "flappycoin",
@@ -17263,7 +17863,8 @@
     "percent_change_1h": "4.21",
     "percent_change_24h": "3.35",
     "percent_change_7d": "-21.69",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-02-22"
   },
   {
     "id": "wink",
@@ -17279,7 +17880,8 @@
     "percent_change_1h": "-13.27",
     "percent_change_24h": "-13.27",
     "percent_change_7d": "-16.0",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-08-08"
   },
   {
     "id": "todaycoin",
@@ -17295,7 +17897,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "4.78",
     "percent_change_7d": "-2.97",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2016-08-22"
   },
   {
     "id": "ugain",
@@ -17311,7 +17914,8 @@
     "percent_change_1h": "-4.76",
     "percent_change_24h": "63.37",
     "percent_change_7d": "-34.23",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-08-08"
   },
   {
     "id": "peacecoin",
@@ -17327,7 +17931,8 @@
     "percent_change_1h": "-40.85",
     "percent_change_24h": "7.34",
     "percent_change_7d": null,
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-09-12"
   },
   {
     "id": "betacoin",
@@ -17343,7 +17948,8 @@
     "percent_change_1h": "-0.76",
     "percent_change_24h": "-10.88",
     "percent_change_7d": "-32.09",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-12-15"
   },
   {
     "id": "irishcoin",
@@ -17359,7 +17965,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "1.04",
     "percent_change_7d": "29.05",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2015-07-07"
   },
   {
     "id": "magnetcoin",
@@ -17375,7 +17982,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "-19.2",
     "percent_change_7d": "-22.71",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-09-10"
   },
   {
     "id": "aseancoin",
@@ -17391,7 +17999,8 @@
     "percent_change_1h": "-33.62",
     "percent_change_24h": "-37.03",
     "percent_change_7d": "3.57",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-08-19"
   },
   {
     "id": "mobilecash",
@@ -17407,7 +18016,8 @@
     "percent_change_1h": "0.1",
     "percent_change_24h": "37.18",
     "percent_change_7d": "-49.52",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-10-06"
   },
   {
     "id": "smart-investment-fund-token",
@@ -17423,7 +18033,8 @@
     "percent_change_1h": "0.4",
     "percent_change_24h": "-3.78",
     "percent_change_7d": "27.68",
-    "last_updated": "1508511563"
+    "last_updated": "1508511563",
+    "date_added": "2017-09-29"
   },
   {
     "id": "halloween-coin",
@@ -17439,7 +18050,8 @@
     "percent_change_1h": "5.07",
     "percent_change_24h": "-6.58",
     "percent_change_7d": "-21.69",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2017-05-17"
   },
   {
     "id": "asiccoin",
@@ -17455,7 +18067,8 @@
     "percent_change_1h": "4.21",
     "percent_change_24h": "-8.4",
     "percent_change_7d": "-24.81",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-12-31"
   },
   {
     "id": "alpacoin",
@@ -17471,7 +18084,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-4.36",
     "percent_change_7d": "-69.98",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2016-01-25"
   },
   {
     "id": "topaz",
@@ -17487,7 +18101,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "86.14",
     "percent_change_7d": "33.19",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-05-08"
   },
   {
     "id": "linkedcoin",
@@ -17503,7 +18118,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "4.78",
     "percent_change_7d": "-47.33",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2016-07-18"
   },
   {
     "id": "edrcoin",
@@ -17519,7 +18135,8 @@
     "percent_change_1h": "5.34",
     "percent_change_24h": "20.46",
     "percent_change_7d": "6.98",
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2016-04-08"
   },
   {
     "id": "gaycoin",
@@ -17535,7 +18152,8 @@
     "percent_change_1h": "29.02",
     "percent_change_24h": "51.59",
     "percent_change_7d": "90.53",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-09-22"
   },
   {
     "id": "yescoin",
@@ -17551,7 +18169,8 @@
     "percent_change_1h": "3.47",
     "percent_change_24h": "-93.29",
     "percent_change_7d": "-91.31",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-01-26"
   },
   {
     "id": "safe-trade-coin",
@@ -17567,7 +18186,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": null,
     "percent_change_7d": "5.16",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2017-01-14"
   },
   {
     "id": "sharkcoin",
@@ -17583,7 +18203,8 @@
     "percent_change_1h": "4.81",
     "percent_change_24h": "8.12",
     "percent_change_7d": "-8.51",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-03-09"
   },
   {
     "id": "goldunioncoin",
@@ -17599,7 +18220,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "-10.19",
     "percent_change_7d": "-46.84",
-    "last_updated": "1508511557"
+    "last_updated": "1508511557",
+    "date_added": "2017-04-27"
   },
   {
     "id": "global-business-revolution",
@@ -17615,7 +18237,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "9.86",
     "percent_change_7d": "5.16",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-11-10"
   },
   {
     "id": "qora",
@@ -17631,7 +18254,8 @@
     "percent_change_1h": "4.74",
     "percent_change_24h": "-21.42",
     "percent_change_7d": "13.33",
-    "last_updated": "1508511544"
+    "last_updated": "1508511544",
+    "date_added": "2014-05-26"
   },
   {
     "id": "bitgem",
@@ -17647,7 +18271,8 @@
     "percent_change_1h": "4.93",
     "percent_change_24h": "6.32",
     "percent_change_7d": "6.34",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-07-04"
   },
   {
     "id": "thecreed",
@@ -17663,7 +18288,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "-17.14",
     "percent_change_7d": "-24.89",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-04-26"
   },
   {
     "id": "peepcoin",
@@ -17679,7 +18305,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": null,
     "percent_change_7d": "273.31",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-07-11"
   },
   {
     "id": "morningstar-payments",
@@ -17695,7 +18322,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-10.21",
     "percent_change_7d": "-32.87",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-09-19"
   },
   {
     "id": "shacoin",
@@ -17711,7 +18339,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "-12.88",
     "percent_change_7d": "-1.86",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-06-25"
   },
   {
     "id": "trickycoin",
@@ -17727,7 +18356,8 @@
     "percent_change_1h": "-9.21",
     "percent_change_24h": "-8.66",
     "percent_change_7d": "2.6",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-04-01"
   },
   {
     "id": "cubits",
@@ -17743,7 +18373,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "-2.22",
     "percent_change_7d": "1.05",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-10-24"
   },
   {
     "id": "motocoin",
@@ -17759,7 +18390,8 @@
     "percent_change_1h": "35.26",
     "percent_change_24h": "608.98",
     "percent_change_7d": "128.69",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2014-06-03"
   },
   {
     "id": "frankywillcoin",
@@ -17775,7 +18407,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "12.45",
     "percent_change_7d": "-20.24",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-08-02"
   },
   {
     "id": "lepen",
@@ -17791,7 +18424,8 @@
     "percent_change_1h": "4.85",
     "percent_change_24h": "-28.64",
     "percent_change_7d": "-43.46",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-02-08"
   },
   {
     "id": "darklisk",
@@ -17807,7 +18441,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "-10.21",
     "percent_change_7d": "-9.87",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-05-04"
   },
   {
     "id": "tattoocoin-limited",
@@ -17823,7 +18458,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "199.53",
     "percent_change_7d": "13.97",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-04-25"
   },
   {
     "id": "prismchain",
@@ -17839,7 +18475,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": null,
     "percent_change_7d": "-1.41",
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2016-05-31"
   },
   {
     "id": "dashs",
@@ -17855,7 +18492,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "2.25",
     "percent_change_7d": "-10.26",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-04-25"
   },
   {
     "id": "opescoin",
@@ -17871,7 +18509,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "1.29",
     "percent_change_7d": "5.44",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2016-01-15"
   },
   {
     "id": "donationcoin",
@@ -17887,7 +18526,8 @@
     "percent_change_1h": "3.03",
     "percent_change_24h": "-22.73",
     "percent_change_7d": "14.83",
-    "last_updated": "1508511544"
+    "last_updated": "1508511544",
+    "date_added": "2014-06-15"
   },
   {
     "id": "facecoin",
@@ -17903,7 +18543,8 @@
     "percent_change_1h": "0.4",
     "percent_change_24h": "52.04",
     "percent_change_7d": "-37.09",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-09-10"
   },
   {
     "id": "9coin",
@@ -17919,7 +18560,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "30.98",
     "percent_change_7d": "-31.89",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-05-13"
   },
   {
     "id": "blazercoin",
@@ -17935,7 +18577,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-2.78",
     "percent_change_7d": "-44.08",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-04-17"
   },
   {
     "id": "paypeer",
@@ -17951,7 +18594,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "4.8",
     "percent_change_7d": "5.02",
-    "last_updated": "1508511558"
+    "last_updated": "1508511558",
+    "date_added": "2016-03-31"
   },
   {
     "id": "fireflycoin",
@@ -17967,7 +18611,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-17.28",
     "percent_change_7d": "5.16",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2014-10-26"
   },
   {
     "id": "uncoin",
@@ -17983,7 +18628,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "4.78",
     "percent_change_7d": "5.15",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-03-23"
   },
   {
     "id": "bitcentavo",
@@ -17999,7 +18645,8 @@
     "percent_change_1h": "4.81",
     "percent_change_24h": "4.94",
     "percent_change_7d": "8.61",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2014-09-13"
   },
   {
     "id": "sportscoin",
@@ -18015,7 +18662,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "4.78",
     "percent_change_7d": null,
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-09-14"
   },
   {
     "id": "cycling-coin",
@@ -18031,7 +18679,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "-15.61",
     "percent_change_7d": null,
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-07-13"
   },
   {
     "id": "fonziecoin",
@@ -18047,7 +18696,8 @@
     "percent_change_1h": "-5.7",
     "percent_change_24h": "-37.13",
     "percent_change_7d": "-33.06",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2015-09-15"
   },
   {
     "id": "advanced-internet-blocks",
@@ -18063,7 +18713,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "7.6",
     "percent_change_7d": "-11.83",
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-04-30"
   },
   {
     "id": "skeincoin",
@@ -18079,7 +18730,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "20.88",
     "percent_change_7d": "15.42",
-    "last_updated": "1508511542"
+    "last_updated": "1508511542",
+    "date_added": "2014-03-15"
   },
   {
     "id": "wowecoin",
@@ -18095,7 +18747,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "0.0",
     "percent_change_7d": "15.18",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-08-26"
   },
   {
     "id": "bitfid",
@@ -18111,7 +18764,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "-30.15",
     "percent_change_7d": "5.16",
-    "last_updated": "1508511562"
+    "last_updated": "1508511562",
+    "date_added": "2017-08-27"
   },
   {
     "id": "vegascoin",
@@ -18127,7 +18781,8 @@
     "percent_change_1h": "4.73",
     "percent_change_24h": "7.1",
     "percent_change_7d": "12.35",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-05-06"
   },
   {
     "id": "shellcoin",
@@ -18143,7 +18798,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": null,
     "percent_change_7d": null,
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-05-09"
   },
   {
     "id": "lathaan",
@@ -18159,7 +18815,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": null,
     "percent_change_7d": "5.16",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-10-11"
   },
   {
     "id": "moneycoin",
@@ -18175,7 +18832,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "4.78",
     "percent_change_7d": "5.16",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2016-12-19"
   },
   {
     "id": "first-bitcoin",
@@ -18191,7 +18849,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "9.55",
     "percent_change_7d": "-1.36",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-07-25"
   },
   {
     "id": "aces",
@@ -18207,7 +18866,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "32.9",
     "percent_change_7d": "93.1",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-08-19"
   },
   {
     "id": "goldmaxcoin",
@@ -18223,7 +18883,8 @@
     "percent_change_1h": "4.81",
     "percent_change_24h": "4.78",
     "percent_change_7d": "-43.67",
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2016-04-06"
   },
   {
     "id": "psilocybin",
@@ -18239,7 +18900,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "4.76",
     "percent_change_7d": "3.31",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-03-22"
   },
   {
     "id": "bitcedi",
@@ -18255,7 +18917,8 @@
     "percent_change_1h": "4.92",
     "percent_change_24h": "2.41",
     "percent_change_7d": "-1.98",
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2016-06-02"
   },
   {
     "id": "wearesatoshi",
@@ -18271,7 +18934,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "7.97",
     "percent_change_7d": "13.14",
-    "last_updated": "1508511544"
+    "last_updated": "1508511544",
+    "date_added": "2014-09-06"
   },
   {
     "id": "netbit",
@@ -18287,7 +18951,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "60.25",
     "percent_change_7d": "4.93",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-11-14"
   },
   {
     "id": "ur",
@@ -18303,7 +18968,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "5.26",
     "percent_change_7d": "-15.73",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-03-03"
   },
   {
     "id": "zsecoin",
@@ -18319,7 +18985,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "4.21",
     "percent_change_7d": "-5.4",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-03-30"
   },
   {
     "id": "rhfcoin",
@@ -18335,7 +19002,8 @@
     "percent_change_1h": "-18.95",
     "percent_change_24h": "4.78",
     "percent_change_7d": "-18.74",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-04-17"
   },
   {
     "id": "utacoin",
@@ -18351,7 +19019,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "4.78",
     "percent_change_7d": "-7.99",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-03-30"
   },
   {
     "id": "xde-ii",
@@ -18367,7 +19036,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "5.36",
     "percent_change_7d": "24.29",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-03-30"
   },
   {
     "id": "teracoin",
@@ -18383,7 +19053,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "4.78",
     "percent_change_7d": "5.15",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-02-26"
   },
   {
     "id": "axiom",
@@ -18399,7 +19070,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "4.78",
     "percent_change_7d": "5.16",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2015-07-30"
   },
   {
     "id": "fazzcoin",
@@ -18415,7 +19087,8 @@
     "percent_change_1h": "-8.12",
     "percent_change_24h": "-37.03",
     "percent_change_7d": "-12.21",
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-04-18"
   },
   {
     "id": "bestchain",
@@ -18431,7 +19104,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "29.01",
     "percent_change_7d": "3.87",
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-04-01"
   },
   {
     "id": "soulcoin",
@@ -18447,7 +19121,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": null,
     "percent_change_7d": "5.15",
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2016-05-18"
   },
   {
     "id": "picoin",
@@ -18463,7 +19138,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": null,
     "percent_change_7d": null,
-    "last_updated": "1508511556"
+    "last_updated": "1508511556",
+    "date_added": "2017-05-09"
   },
   {
     "id": "teamup",
@@ -18479,7 +19155,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "4.47",
     "percent_change_7d": "-29.97",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-10-19"
   },
   {
     "id": "cybercoin",
@@ -18495,7 +19172,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "4.78",
     "percent_change_7d": null,
-    "last_updated": "1508511546"
+    "last_updated": "1508511546",
+    "date_added": "2015-04-03"
   },
   {
     "id": "cbd-crystals",
@@ -18511,7 +19189,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": "4.27",
     "percent_change_7d": null,
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-11-07"
   },
   {
     "id": "bitok",
@@ -18527,7 +19206,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": "26.37",
     "percent_change_7d": "8.0",
-    "last_updated": "1508511558"
+    "last_updated": "1508511558",
+    "date_added": "2017-06-24"
   },
   {
     "id": "quebecoin",
@@ -18543,7 +19223,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "-0.46",
     "percent_change_7d": "1.94",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-04-23"
   },
   {
     "id": "antimatter",
@@ -18559,7 +19240,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "95.86",
     "percent_change_7d": null,
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-06-25"
   },
   {
     "id": "digital-bullion-gold",
@@ -18575,7 +19257,8 @@
     "percent_change_1h": "2.95",
     "percent_change_24h": "4.78",
     "percent_change_7d": "5.57",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-06-16"
   },
   {
     "id": "wowcoin",
@@ -18591,7 +19274,8 @@
     "percent_change_1h": "3.92",
     "percent_change_24h": "128.57",
     "percent_change_7d": "15.21",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2016-11-14"
   },
   {
     "id": "operand",
@@ -18607,7 +19291,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "4.78",
     "percent_change_7d": "-7.35",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-04-11"
   },
   {
     "id": "bitalphacoin",
@@ -18623,7 +19308,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "7.22",
     "percent_change_7d": "-9.39",
-    "last_updated": "1508511552"
+    "last_updated": "1508511552",
+    "date_added": "2016-01-22"
   },
   {
     "id": "tellurion",
@@ -18639,7 +19325,8 @@
     "percent_change_1h": "4.86",
     "percent_change_24h": "39.45",
     "percent_change_7d": "126.99",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-09-19"
   },
   {
     "id": "pinkdog",
@@ -18655,7 +19342,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": null,
     "percent_change_7d": "5.16",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-02-22"
   },
   {
     "id": "birds",
@@ -18671,7 +19359,8 @@
     "percent_change_1h": "4.88",
     "percent_change_24h": null,
     "percent_change_7d": "-7.4",
-    "last_updated": "1508511560"
+    "last_updated": "1508511560",
+    "date_added": "2017-07-31"
   },
   {
     "id": "turbocoin",
@@ -18687,7 +19376,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": null,
     "percent_change_7d": "4.82",
-    "last_updated": "1508511559"
+    "last_updated": "1508511559",
+    "date_added": "2017-07-01"
   },
   {
     "id": "ocow",
@@ -18703,7 +19393,8 @@
     "percent_change_1h": "4.76",
     "percent_change_24h": "-14.07",
     "percent_change_7d": "13.88",
-    "last_updated": "1508511550"
+    "last_updated": "1508511550",
+    "date_added": "2016-05-04"
   },
   {
     "id": "moneta2",
@@ -18719,7 +19410,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": null,
     "percent_change_7d": "-9.87",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2015-10-24"
   },
   {
     "id": "mmxvi",
@@ -18735,7 +19427,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": null,
     "percent_change_7d": "-2.44",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2016-02-17"
   },
   {
     "id": "safecoin",
@@ -18751,7 +19444,8 @@
     "percent_change_1h": "4.95",
     "percent_change_24h": null,
     "percent_change_7d": "5.15",
-    "last_updated": "1508511549"
+    "last_updated": "1508511549",
+    "date_added": "2016-05-20"
   },
   {
     "id": "miyucoin",
@@ -18767,7 +19461,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": null,
     "percent_change_7d": null,
-    "last_updated": "1508511558"
+    "last_updated": "1508511558",
+    "date_added": "2017-07-15"
   },
   {
     "id": "golfcoin",
@@ -18783,7 +19478,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": null,
     "percent_change_7d": null,
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2016-09-09"
   },
   {
     "id": "kashhcoin",
@@ -18799,7 +19495,8 @@
     "percent_change_1h": "2.97",
     "percent_change_24h": "23.91",
     "percent_change_7d": null,
-    "last_updated": "1508511555"
+    "last_updated": "1508511555",
+    "date_added": "2017-02-22"
   },
   {
     "id": "cashme",
@@ -18815,7 +19512,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": null,
-    "last_updated": "1508015654"
+    "last_updated": "1508015654",
+    "date_added": "2015-11-23"
   },
   {
     "id": "rcoin",
@@ -18831,7 +19529,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-1.34",
     "percent_change_7d": "-1.18",
-    "last_updated": "1508482752"
+    "last_updated": "1508482752",
+    "date_added": "2016-10-09"
   },
   {
     "id": "futcoin",
@@ -18847,7 +19546,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "0.29",
     "percent_change_7d": "-23.19",
-    "last_updated": "1508453947"
+    "last_updated": "1508453947",
+    "date_added": "2015-07-21"
   },
   {
     "id": "dubstep",
@@ -18863,7 +19563,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-0.91",
     "percent_change_7d": "-4.52",
-    "last_updated": "1508505546"
+    "last_updated": "1508505546",
+    "date_added": "2015-06-30"
   },
   {
     "id": "royalties",
@@ -18879,7 +19580,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": "-38.61",
-    "last_updated": "1508396059"
+    "last_updated": "1508396059",
+    "date_added": "2017-07-24"
   },
   {
     "id": "richcoin",
@@ -18895,7 +19597,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-0.26",
     "percent_change_7d": "-2.85",
-    "last_updated": "1508476150"
+    "last_updated": "1508476150",
+    "date_added": "2016-05-31"
   },
   {
     "id": "sync",
@@ -18911,7 +19614,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-28.77",
     "percent_change_7d": null,
-    "last_updated": "1508501643"
+    "last_updated": "1508501643",
+    "date_added": "2014-05-21"
   },
   {
     "id": "eggcoin",
@@ -18927,7 +19631,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-0.07",
     "percent_change_7d": "0.09",
-    "last_updated": "1508449446"
+    "last_updated": "1508449446",
+    "date_added": "2015-04-30"
   },
   {
     "id": "aidos-kuneen",
@@ -18943,7 +19648,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": "15.69",
-    "last_updated": "1508215158"
+    "last_updated": "1508215158",
+    "date_added": "2017-06-06"
   },
   {
     "id": "pokecoin",
@@ -18959,7 +19665,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-0.24",
     "percent_change_7d": "0.12",
-    "last_updated": "1508465051"
+    "last_updated": "1508465051",
+    "date_added": "2016-08-05"
   },
   {
     "id": "x2",
@@ -18975,7 +19682,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": "-52.93",
-    "last_updated": "1508310248"
+    "last_updated": "1508310248",
+    "date_added": "2015-12-15"
   },
   {
     "id": "clinton",
@@ -18991,7 +19699,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": "-2.21",
-    "last_updated": "1508275459"
+    "last_updated": "1508275459",
+    "date_added": "2016-05-04"
   },
   {
     "id": "neptune-classic",
@@ -19007,7 +19716,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": "0.22",
-    "last_updated": "1507919356"
+    "last_updated": "1507919356",
+    "date_added": "2017-02-22"
   },
   {
     "id": "excelcoin",
@@ -19023,7 +19733,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-0.75",
     "percent_change_7d": "98.93",
-    "last_updated": "1508439860"
+    "last_updated": "1508439860",
+    "date_added": "2017-08-15"
   },
   {
     "id": "omicron",
@@ -19039,7 +19750,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": "1.88",
-    "last_updated": "1508196251"
+    "last_updated": "1508196251",
+    "date_added": "2016-09-24"
   },
   {
     "id": "dynamiccoin",
@@ -19055,7 +19767,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": "-0.0",
-    "last_updated": "1508264952"
+    "last_updated": "1508264952",
+    "date_added": "2016-10-24"
   },
   {
     "id": "deltacredits",
@@ -19071,7 +19784,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-1.13",
     "percent_change_7d": null,
-    "last_updated": "1508492047"
+    "last_updated": "1508492047",
+    "date_added": "2015-08-30"
   },
   {
     "id": "royalcoin",
@@ -19087,7 +19801,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-0.81",
     "percent_change_7d": "-32.7",
-    "last_updated": "1508502252"
+    "last_updated": "1508502252",
+    "date_added": "2016-10-16"
   },
   {
     "id": "gameleaguecoin",
@@ -19103,7 +19818,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-0.01",
     "percent_change_7d": null,
-    "last_updated": "1508447345"
+    "last_updated": "1508447345",
+    "date_added": "2014-07-03"
   },
   {
     "id": "karmacoin",
@@ -19119,7 +19835,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": null,
-    "last_updated": "1508237941"
+    "last_updated": "1508237941",
+    "date_added": "2014-02-08"
   },
   {
     "id": "invisiblecoin",
@@ -19135,7 +19852,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": "-27.04",
-    "last_updated": "1508355548"
+    "last_updated": "1508355548",
+    "date_added": "2015-10-12"
   },
   {
     "id": "axfunds",
@@ -19151,7 +19869,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": null,
-    "last_updated": "1508128752"
+    "last_updated": "1508128752",
+    "date_added": "2016-11-18"
   },
   {
     "id": "elacoin",
@@ -19167,7 +19886,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-0.27",
     "percent_change_7d": "13.43",
-    "last_updated": "1508463841"
+    "last_updated": "1508463841",
+    "date_added": "2013-06-09"
   },
   {
     "id": "etherx",
@@ -19183,7 +19903,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": "-6.79",
-    "last_updated": "1508060368"
+    "last_updated": "1508060368",
+    "date_added": "2017-08-05"
   },
   {
     "id": "happy-creator-coin",
@@ -19199,7 +19920,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": "-19.87",
-    "last_updated": "1508395750"
+    "last_updated": "1508395750",
+    "date_added": "2016-07-08"
   },
   {
     "id": "xaucoin",
@@ -19215,7 +19937,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": "-32.15",
-    "last_updated": "1508361546"
+    "last_updated": "1508361546",
+    "date_added": "2015-03-16"
   },
   {
     "id": "bongger",
@@ -19231,7 +19954,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-0.02",
     "percent_change_7d": "155.99",
-    "last_updated": "1508475244"
+    "last_updated": "1508475244",
+    "date_added": "2014-09-07"
   },
   {
     "id": "mavro",
@@ -19247,7 +19971,8 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": "-9.17",
-    "last_updated": "1508359457"
+    "last_updated": "1508359457",
+    "date_added": "2017-03-30"
   },
   {
     "id": "international-diamond",
@@ -19263,7 +19988,8 @@
     "percent_change_1h": null,
     "percent_change_24h": "-0.82",
     "percent_change_7d": "-34.7",
-    "last_updated": "1508495950"
+    "last_updated": "1508495950",
+    "date_added": "2016-07-21"
   },
   {
     "id": "amis",
@@ -19279,7 +20005,8 @@
     "percent_change_1h": "0.21",
     "percent_change_24h": "-32.55",
     "percent_change_7d": "-62.92",
-    "last_updated": "1508509156"
+    "last_updated": "1508509156",
+    "date_added": "2017-04-21"
   },
   {
     "id": "microcoin",
@@ -19295,6 +20022,7 @@
     "percent_change_1h": null,
     "percent_change_24h": null,
     "percent_change_7d": null,
-    "last_updated": "1508184242"
+    "last_updated": "1508184242",
+    "date_added": "2014-03-03"
   }
 ]
