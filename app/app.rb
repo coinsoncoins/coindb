@@ -14,7 +14,7 @@ end
 
 data.each do |coin|
   if coin["date_added"]
-    puts "#{coin['id']} already has date_added}"
+    puts "#{coin['id']} already has date_added"
   else
     puts "#{coin['id']} has no date added"
     parsed = CmcPageParser.parse(coin["id"])
