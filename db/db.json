@@ -13,7 +13,8 @@
     "percent_change_1h": "4.2",
     "percent_change_24h": "3.72",
     "percent_change_7d": "4.21",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2013-04-28"
   },
   {
     "id": "ethereum",
@@ -29,7 +30,8 @@
     "percent_change_1h": "0.22",
     "percent_change_24h": "-0.6",
     "percent_change_7d": "-8.78",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2015-08-07"
   },
   {
     "id": "ripple",
@@ -45,7 +47,8 @@
     "percent_change_1h": "-1.36",
     "percent_change_24h": "-0.77",
     "percent_change_7d": "-16.08",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-08-04"
   },
   {
     "id": "bitcoin-cash",
@@ -61,7 +64,8 @@
     "percent_change_1h": "0.11",
     "percent_change_24h": "0.02",
     "percent_change_7d": "4.99",
-    "last_updated": "1508511561"
+    "last_updated": "1508511561",
+    "date_added": "2017-07-23"
   },
   {
     "id": "litecoin",
@@ -77,7 +81,8 @@
     "percent_change_1h": "4.03",
     "percent_change_24h": "2.91",
     "percent_change_7d": "4.95",
-    "last_updated": "1508511541"
+    "last_updated": "1508511541",
+    "date_added": "2013-04-28"
   },
   {
     "id": "dash",
@@ -93,7 +98,8 @@
     "percent_change_1h": "1.41",
     "percent_change_24h": "0.73",
     "percent_change_7d": "-2.98",
-    "last_updated": "1508511545"
+    "last_updated": "1508511545",
+    "date_added": "2014-02-14"
   },
   {
     "id": "nem",
@@ -109,7 +115,8 @@
     "percent_change_1h": "2.16",
     "percent_change_24h": "2.05",
     "percent_change_7d": "10.99",
-    "last_updated": "1508511548"
+    "last_updated": "1508511548",
+    "date_added": "2015-04-01"
   },
   {
     "id": "bitconnect",
@@ -125,7 +132,8 @@
     "percent_change_1h": "4.89",
     "percent_change_24h": "6.08",
     "percent_change_7d": "7.41",
-    "last_updated": "1508511554"
+    "last_updated": "1508511554",
+    "date_added": "2017-01-20"
   },
   {
     "id": "neo",
@@ -141,7 +149,8 @@
     "percent_change_1h": "-0.31",
     "percent_change_24h": "-0.13",
     "percent_change_7d": "2.58",
-    "last_updated": "1508511553"
+    "last_updated": "1508511553",
+    "date_added": "2016-09-09"
   },
   {
     "id": "monero",
@@ -157,7 +166,8 @@
     "percent_change_1h": "2.48",
     "percent_change_24h": "2.99",
     "percent_change_7d": "-0.98",
-    "last_updated": "1508511543"
+    "last_updated": "1508511543",
+    "date_added": "2014-05-21"
   },
   {
     "id": "iota",
@@ -173,7 +183,8 @@
     "percent_change_1h": "1.81",
     "percent_change_24h": "-2.3",
     "percent_change_7d": "-0.41",
-    "last_updated": "1508511558"
+    "last_updated": "1508511558",
+    "date_added": "2017-06-13"
   },
   {
     "id": "ethereum-classic",
@@ -189,7 +200,8 @@
     "percent_change_1h": "0.9",
     "percent_change_24h": "0.32",
     "percent_change_7d": "-5.89",
-    "last_updated": "1508511551"
+    "last_updated": "1508511551",
+    "date_added": "2016-07-24"
   },
   {
     "id": "qtum",
